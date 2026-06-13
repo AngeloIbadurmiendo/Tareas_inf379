@@ -59,7 +59,7 @@ Permite identificar qué regiones del mundo han experimentado el mayor calentami
 
 - **Tipo de esquema:** Descripción geográfica con comparación temporal implícita
 - La variable visualizada (delta de temperatura) condensa dos dimensiones temporales (baseline vs reciente) en un único valor numérico, permitiendo que el mapa muestre el **resultado acumulado del calentamiento** sin necesidad de una animación o slider temporal.
-- **Narrativa visual:** El gradiente de color guía al ojo desde las zonas de menor cambio (azul/blanco) hacia las zonas de mayor calentamiento (rojo), revelando patrones geográficos estructurales del fenómeno climático.
+- **Narrativa visual:** El gradiente de color guía al ojo desde las zonas de menor cambio hacia las zonas de mayor calentamiento, revelando patrones geográficos estructurales del fenómeno climático.
 
 ---
 
