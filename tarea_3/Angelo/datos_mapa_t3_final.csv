@@ -1,0 +1,196 @@
+﻿ISO_Code,Pais,delta_temperatura,temp_baseline,temp_reciente,unc_baseline,unc_reciente,categoria
+MN,Mongolia,1.293,-0.63,0.663,0.332,0.321,Calentamiento significativo
+RU,Russia,1.281,-5.434,-4.153,0.233,0.234,Calentamiento significativo
+TM,Turkmenistan,1.254,14.964,16.218,0.394,0.29,Calentamiento significativo
+CA,Canada,1.233,-4.917,-3.684,0.258,0.242,Calentamiento significativo
+IR,Iran,1.228,17.71,18.938,0.364,0.259,Calentamiento significativo
+AF,Afghanistan,1.153,14.061,15.213,0.415,0.45,Calentamiento significativo
+TN,Tunisia,1.131,20.035,21.166,0.385,0.301,Calentamiento significativo
+BY,Belarus,1.13,5.961,7.09,0.284,0.219,Calentamiento significativo
+KZ,Kazakhstan,1.117,5.475,6.592,0.308,0.284,Calentamiento significativo
+UZ,Uzbekistan,1.113,12.513,13.626,0.406,0.281,Calentamiento significativo
+GL,Greenland,1.107,-18.381,-17.274,0.902,0.736,Calentamiento significativo
+AE,United Arab Emirates,1.107,27.808,28.916,0.628,0.393,Calentamiento significativo
+DK,Denmark,1.103,-17.85,-16.747,0.881,0.719,Calentamiento significativo
+QA,Qatar,1.101,26.926,28.027,0.584,0.456,Calentamiento significativo
+LV,Latvia,1.089,5.432,6.521,0.299,0.245,Calentamiento significativo
+EE,Estonia,1.076,4.937,6.013,0.314,0.251,Calentamiento significativo
+SI,Slovenia,1.071,9.734,10.805,0.336,0.285,Calentamiento significativo
+BH,Bahrain,1.07,26.071,27.14,0.497,0.392,Calentamiento significativo
+LT,Lithuania,1.063,6.025,7.088,0.305,0.224,Calentamiento significativo
+DZ,Algeria,1.034,23.098,24.131,0.398,0.367,Calentamiento significativo
+FI,Finland,1.034,1.413,2.447,0.269,0.242,Calentamiento significativo
+KW,Kuwait,1.03,25.286,26.316,0.501,0.464,Calentamiento significativo
+AD,Andorra,1.023,11.237,12.26,0.339,0.286,Calentamiento significativo
+AT,Austria,1.019,6.316,7.335,0.301,0.25,Calentamiento significativo
+SM,San Marino,1.013,13.925,14.938,0.349,0.345,Calentamiento significativo
+CH,Switzerland,1.0,7.098,8.097,0.288,0.229,Calentamiento significativo
+LI,Liechtenstein,0.996,4.757,5.753,0.41,0.357,Calentamiento moderado
+SE,Sweden,0.995,2.502,3.497,0.291,0.246,Calentamiento moderado
+PL,Poland,0.993,7.574,8.567,0.351,0.241,Calentamiento moderado
+OM,Oman,0.991,26.97,27.961,0.698,0.533,Calentamiento moderado
+UA,Ukraine,0.991,7.913,8.904,0.248,0.217,Calentamiento moderado
+MC,Monaco,0.985,9.113,10.098,0.345,0.316,Calentamiento moderado
+MA,Morocco,0.984,17.682,18.666,0.429,0.363,Calentamiento moderado
+KG,Kyrgyzstan,0.981,3.444,4.425,0.537,0.422,Calentamiento moderado
+TJ,Tajikistan,0.977,4.207,5.184,0.492,0.482,Calentamiento moderado
+AZ,Azerbaijan,0.976,11.537,12.513,0.403,0.351,Calentamiento moderado
+CZ,Czech Republic,0.97,7.758,8.727,0.297,0.226,Calentamiento moderado
+FR,France (Europe),0.969,10.491,11.46,0.24,0.192,Calentamiento moderado
+HR,Croatia,0.969,11.447,12.416,0.294,0.258,Calentamiento moderado
+DE,Germany,0.962,8.283,9.245,0.217,0.189,Calentamiento moderado
+LU,Luxembourg,0.951,9.292,10.244,0.264,0.207,Calentamiento moderado
+MT,Malta,0.95,18.543,19.493,0.398,0.372,Calentamiento moderado
+ES,Spain,0.944,13.642,14.585,0.239,0.231,Calentamiento moderado
+NL,Netherlands (Europe),0.944,9.237,10.181,0.249,0.2,Calentamiento moderado
+BE,Belgium,0.941,9.61,10.551,0.26,0.211,Calentamiento moderado
+EH,Western Sahara,0.939,22.408,23.347,0.442,0.637,Calentamiento moderado
+IT,Italy,0.939,12.847,13.786,0.247,0.234,Calentamiento moderado
+NL,Netherlands,0.934,9.635,10.569,0.248,0.2,Calentamiento moderado
+NO,Norway,0.931,0.238,1.169,0.337,0.297,Calentamiento moderado
+DK,Denmark (Europe),0.93,7.947,8.878,0.266,0.236,Calentamiento moderado
+IQ,Iraq,0.924,22.088,23.011,0.361,0.352,Calentamiento moderado
+KP,North Korea,0.924,6.928,7.852,0.299,0.265,Calentamiento moderado
+AM,Armenia,0.913,8.913,9.826,0.42,0.367,Calentamiento moderado
+FR,France,0.903,12.9,13.803,0.272,0.221,Calentamiento moderado
+PK,Pakistan,0.894,20.697,21.591,0.282,0.299,Calentamiento moderado
+SA,Saudi Arabia,0.893,25.729,26.622,0.55,0.34,Calentamiento moderado
+HU,Hungary,0.892,9.883,10.775,0.304,0.27,Calentamiento moderado
+SK,Slovakia,0.891,7.698,8.588,0.331,0.28,Calentamiento moderado
+MD,Moldova,0.883,9.178,10.061,0.32,0.289,Calentamiento moderado
+YE,Yemen,0.88,26.276,27.156,0.751,0.704,Calentamiento moderado
+BA,Bosnia And Herzegovina,0.877,10.548,11.425,0.361,0.338,Calentamiento moderado
+LY,Libya,0.868,22.452,23.32,0.466,0.513,Calentamiento moderado
+MR,Mauritania,0.86,27.64,28.5,0.366,0.621,Calentamiento moderado
+PT,Portugal,0.836,14.743,15.58,0.299,0.275,Calentamiento moderado
+GE,Georgia,0.817,8.521,9.338,0.364,0.367,Calentamiento moderado
+US,United States,0.814,8.793,9.608,0.19,0.165,Calentamiento moderado
+DJ,Djibouti,0.805,28.785,29.59,0.702,0.783,Calentamiento moderado
+RS,Serbia,0.795,10.158,10.952,0.345,0.274,Calentamiento moderado
+CN,China,0.793,6.792,7.585,0.216,0.179,Calentamiento moderado
+RO,Romania,0.789,9.002,9.79,0.298,0.259,Calentamiento moderado
+NE,Niger,0.777,27.494,28.271,0.453,0.533,Calentamiento moderado
+ME,Montenegro,0.762,10.381,11.143,0.382,0.361,Calentamiento moderado
+CV,Cape Verde,0.748,24.248,24.997,0.527,0.695,Calentamiento moderado
+GB,United Kingdom (Europe),0.743,8.799,9.542,0.234,0.201,Calentamiento moderado
+BG,Bulgaria,0.742,10.704,11.446,0.335,0.268,Calentamiento moderado
+MK,Macedonia,0.734,10.56,11.294,0.392,0.33,Calentamiento moderado
+GB,United Kingdom,0.73,8.647,9.376,0.255,0.218,Calentamiento moderado
+GM,Gambia,0.726,27.592,28.319,0.342,0.45,Calentamiento moderado
+SN,Senegal,0.724,28.034,28.758,0.313,0.421,Calentamiento moderado
+KR,South Korea,0.723,12.089,12.812,0.251,0.237,Calentamiento moderado
+ER,Eritrea,0.718,26.821,27.539,0.49,0.559,Calentamiento moderado
+AL,Albania,0.706,12.788,13.494,0.345,0.335,Calentamiento moderado
+JO,Jordan,0.706,19.713,20.418,0.347,0.309,Calentamiento moderado
+ML,Mali,0.702,28.522,29.223,0.34,0.482,Calentamiento moderado
+GW,Guinea Bissau,0.696,26.842,27.538,0.335,0.485,Calentamiento moderado
+SY,Syria,0.693,18.3,18.993,0.309,0.31,Calentamiento moderado
+ET,Ethiopia,0.688,23.025,23.713,0.436,0.559,Calentamiento moderado
+SD,Sudan,0.676,27.157,27.833,0.324,0.473,Calentamiento moderado
+LB,Lebanon,0.675,17.985,18.66,0.32,0.302,Calentamiento moderado
+TD,Chad,0.674,27.177,27.85,0.487,0.733,Calentamiento moderado
+MG,Madagascar,0.671,22.839,23.51,0.323,0.378,Calentamiento moderado
+IL,Israel,0.669,19.984,20.653,0.295,0.28,Calentamiento moderado
+CY,Cyprus,0.667,19.091,19.757,0.332,0.294,Calentamiento moderado
+SO,Somalia,0.665,26.916,27.581,0.663,0.678,Calentamiento moderado
+IS,Iceland,0.665,1.628,2.293,0.422,0.371,Calentamiento moderado
+EG,Egypt,0.662,22.936,23.598,0.338,0.36,Calentamiento moderado
+MU,Mauritius,0.66,23.609,24.27,0.344,0.325,Calentamiento moderado
+IE,Ireland,0.654,9.577,10.232,0.255,0.243,Calentamiento moderado
+NG,Nigeria,0.65,26.791,27.44,0.283,0.395,Calentamiento moderado
+GR,Greece,0.649,14.982,15.631,0.294,0.264,Calentamiento moderado
+SL,Sierra Leone,0.649,26.165,26.814,0.308,0.541,Calentamiento moderado
+TZ,Tanzania,0.649,22.334,22.983,0.306,0.327,Calentamiento moderado
+GN,Guinea,0.645,25.587,26.231,0.279,0.48,Calentamiento moderado
+KM,Comoros,0.644,25.782,26.425,0.281,0.362,Calentamiento moderado
+BI,Burundi,0.643,20.096,20.739,0.415,0.582,Calentamiento moderado
+LR,Liberia,0.638,25.521,26.159,0.298,0.431,Calentamiento moderado
+RW,Rwanda,0.633,19.269,19.903,0.388,0.573,Calentamiento moderado
+CI,Côte D'Ivoire,0.631,26.074,26.705,0.256,0.339,Calentamiento moderado
+BJ,Benin,0.628,27.227,27.855,0.274,0.313,Calentamiento moderado
+,Namibia,0.622,20.563,21.185,0.548,0.705,Calentamiento moderado
+BF,Burkina Faso,0.622,28.185,28.807,0.274,0.314,Calentamiento moderado
+AG,Antigua And Barbuda,0.619,26.665,27.284,0.334,0.265,Calentamiento moderado
+BR,Brazil,0.617,24.931,25.548,0.262,0.188,Calentamiento moderado
+KI,Kiribati,0.614,26.801,27.415,0.642,0.674,Calentamiento moderado
+MW,Malawi,0.614,21.458,22.072,0.309,0.393,Calentamiento moderado
+TR,Turkey,0.613,11.978,12.59,0.249,0.248,Calentamiento moderado
+KN,Saint Kitts And Nevis,0.612,26.083,26.694,0.291,0.244,Calentamiento moderado
+GH,Ghana,0.609,26.786,27.395,0.255,0.301,Calentamiento moderado
+AO,Angola,0.607,21.89,22.496,0.36,0.667,Calentamiento moderado
+UG,Uganda,0.604,23.071,23.675,0.359,0.481,Calentamiento moderado
+TG,Togo,0.602,26.935,27.537,0.261,0.32,Calentamiento moderado
+SC,Seychelles,0.599,26.84,27.439,0.592,0.65,Calentamiento moderado
+ZM,Zambia,0.598,21.312,21.911,0.298,0.48,Calentamiento moderado
+DM,Dominica,0.595,26.354,26.949,0.353,0.263,Calentamiento moderado
+CD,Congo (Democratic Republic Of The),0.589,23.832,24.42,0.233,0.415,Calentamiento moderado
+CF,Central African Republic,0.589,25.345,25.934,0.291,0.514,Calentamiento moderado
+DO,Dominican Republic,0.583,25.773,26.356,0.312,0.405,Calentamiento moderado
+KE,Kenya,0.582,24.15,24.732,0.314,0.343,Calentamiento moderado
+MZ,Mozambique,0.581,23.654,24.235,0.254,0.309,Calentamiento moderado
+BB,Barbados,0.575,26.717,27.293,0.333,0.248,Calentamiento moderado
+LC,Saint Lucia,0.57,26.908,27.477,0.313,0.242,Calentamiento moderado
+SR,Suriname,0.566,26.437,27.003,0.278,0.328,Calentamiento moderado
+VC,Saint Vincent And The Grenadines,0.563,27.054,27.617,0.303,0.242,Calentamiento moderado
+GD,Grenada,0.562,27.012,27.574,0.319,0.247,Calentamiento moderado
+HT,Haiti,0.558,26.511,27.069,0.338,0.434,Calentamiento moderado
+UY,Uruguay,0.556,17.363,17.919,0.322,0.287,Calentamiento moderado
+FM,Federated States Of Micronesia,0.555,26.908,27.463,0.415,0.399,Calentamiento moderado
+TT,Trinidad And Tobago,0.551,26.393,26.944,0.317,0.319,Calentamiento moderado
+CR,Costa Rica,0.545,25.797,26.342,0.417,0.378,Calentamiento moderado
+BS,Bahamas,0.544,25.274,25.818,0.313,0.335,Calentamiento moderado
+CM,Cameroon,0.544,24.443,24.987,0.246,0.448,Calentamiento moderado
+JP,Japan,0.542,12.254,12.796,0.206,0.186,Calentamiento moderado
+GY,Guyana,0.537,26.201,26.738,0.347,0.398,Calentamiento moderado
+MX,Mexico,0.537,20.739,21.276,0.225,0.227,Calentamiento moderado
+NI,Nicaragua,0.536,26.189,26.725,0.377,0.339,Calentamiento moderado
+PA,Panama,0.531,26.479,27.01,0.343,0.354,Calentamiento moderado
+BW,Botswana,0.53,21.993,22.523,0.378,0.385,Calentamiento moderado
+ST,Sao Tome And Principe,0.53,25.909,26.439,0.314,0.447,Calentamiento moderado
+SB,Solomon Islands,0.529,26.688,27.217,0.356,0.436,Calentamiento moderado
+JM,Jamaica,0.528,26.3,26.828,0.399,0.444,Calentamiento moderado
+ZW,Zimbabwe,0.528,21.17,21.698,0.248,0.342,Calentamiento moderado
+SZ,Swaziland,0.526,18.958,19.485,0.333,0.402,Calentamiento moderado
+CU,Cuba,0.526,25.579,26.105,0.287,0.337,Calentamiento moderado
+HN,Honduras,0.519,24.946,25.465,0.355,0.337,Calentamiento moderado
+GQ,Equatorial Guinea,0.511,25.037,25.548,0.265,0.406,Calentamiento moderado
+GA,Gabon,0.506,24.362,24.868,0.249,0.38,Calentamiento moderado
+ZA,South Africa,0.506,17.39,17.896,0.285,0.255,Calentamiento moderado
+CG,Congo,0.503,24.554,25.057,0.233,0.369,Calentamiento moderado
+AU,Australia,0.496,21.722,22.218,0.212,0.182,Calentamiento leve
+PY,Paraguay,0.49,23.465,23.955,0.342,0.309,Calentamiento leve
+EC,Ecuador,0.489,21.98,22.469,0.339,0.326,Calentamiento leve
+SV,El Salvador,0.488,25.154,25.643,0.383,0.398,Calentamiento leve
+SG,Singapore,0.487,26.79,27.277,0.307,0.264,Calentamiento leve
+LK,Sri Lanka,0.479,27.177,27.656,0.267,0.323,Calentamiento leve
+LS,Lesotho,0.476,13.853,14.329,0.348,0.348,Calentamiento leve
+NP,Nepal,0.475,15.089,15.564,0.423,0.412,Calentamiento leve
+TW,Taiwan,0.473,22.262,22.734,0.241,0.238,Calentamiento leve
+VE,Venezuela,0.461,25.318,25.779,0.318,0.321,Calentamiento leve
+BZ,Belize,0.458,25.302,25.76,0.435,0.342,Calentamiento leve
+WS,Samoa,0.452,26.466,26.918,0.347,0.399,Calentamiento leve
+IN,India,0.445,24.174,24.619,0.246,0.205,Calentamiento leve
+CO,Colombia,0.444,24.976,25.42,0.265,0.267,Calentamiento leve
+TO,Tonga,0.438,23.397,23.834,0.466,0.408,Calentamiento leve
+AR,Argentina,0.437,14.82,15.257,0.226,0.218,Calentamiento leve
+GT,Guatemala,0.433,23.385,23.818,0.321,0.303,Calentamiento leve
+MY,Malaysia,0.428,26.097,26.524,0.23,0.192,Calentamiento leve
+FJ,Fiji,0.425,25.199,25.624,0.313,0.286,Calentamiento leve
+PG,Papua New Guinea,0.423,24.521,24.944,0.329,0.329,Calentamiento leve
+ID,Indonesia,0.401,25.932,26.333,0.256,0.187,Calentamiento leve
+PE,Peru,0.376,20.068,20.445,0.288,0.348,Calentamiento leve
+CL,Chile,0.374,9.581,9.955,0.322,0.314,Calentamiento leve
+TH,Thailand,0.344,26.329,26.673,0.233,0.208,Calentamiento leve
+KH,Cambodia,0.344,26.948,27.291,0.271,0.269,Calentamiento leve
+BT,Bhutan,0.343,12.107,12.45,0.382,0.359,Calentamiento leve
+PH,Philippines,0.323,26.741,27.064,0.237,0.211,Calentamiento leve
+BO,Bolivia,0.323,21.067,21.39,0.373,0.306,Calentamiento leve
+MM,Burma,0.32,24.015,24.335,0.307,0.273,Calentamiento leve
+PW,Palau,0.317,27.408,27.725,0.364,0.376,Calentamiento leve
+NZ,New Zealand,0.315,10.639,10.954,0.315,0.266,Calentamiento leve
+LA,Laos,0.302,23.897,24.199,0.303,0.269,Calentamiento leve
+VN,Vietnam,0.298,23.968,24.266,0.261,0.242,Calentamiento leve
+HK,Hong Kong,0.251,22.965,23.216,0.304,0.261,Calentamiento leve
+BD,Bangladesh,0.249,25.188,25.436,0.272,0.275,Calentamiento leve
+MO,Macau,0.236,22.718,22.954,0.335,0.284,Calentamiento leve
+TL,Timor Leste,0.229,26.174,26.403,0.505,0.371,Calentamiento leve
