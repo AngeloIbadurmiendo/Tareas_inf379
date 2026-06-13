@@ -52,7 +52,6 @@ Permite identificar qué regiones del mundo han experimentado el mayor calentami
 - El dato a mostrar (delta de temperatura) es una **variable numérica continua** asignada a **unidades geográficas discretas** (países), que es exactamente el caso de uso para el que fue diseñado el coropleta.
 - Permite **comparar magnitudes entre países de forma inmediata** a través del color, sin necesidad de leer valores individuales.
 - A diferencia de un mapa de puntos (que requiere coordenadas precisas de ubicaciones), el coropleta **abarca la totalidad del territorio** de cada país, siendo más apropiado para una variable que describe una condición a nivel nacional.
-- Es **visualmente distinto** a los tipos de mapa elegidos por los otros integrantes del equipo.
 
 ---
 
