@@ -3,6 +3,7 @@ En esta entrega no hay código.
 Elaboración mapa
 - Herramienta: Flourish
 - Tipo de mapa: Cloropleta
+- Enlace a gráfica en flourish: [choropleth map](https://public.flourish.studio/visualisation/29364699/)
 
 Justificación:
 Mis compañeros habíamos decidido que uno haría el de cloropleta, el otro de puntos, y yo un heatmap. El problema es que en flourish no pillé muchas opciones al precionar los filtros "map"+"change over time" quedándome solo dos tipos: Cloropleta y puntos jaja. Igual me casé con los datos que encontré en [EDGAR](https://edgar.jrc.ec.europa.eu/report_2025). Me hubiera gustado que se pudiera expandir en el mapa y revisar la producción de GHG en los sectores de cada país pero tampoco caché como. Me decidí por cloropleta, ya que usé los datos de producción de GHG del país, y no hay puntos específicos que mostrar por zona, por lo tanto no fue un heatmap
