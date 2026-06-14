@@ -8,3 +8,7 @@ Elaboración mapa
 Justificación:
 Mis compañeros habíamos decidido que uno haría el de cloropleta, el otro de puntos, y yo un heatmap. El problema es que en flourish no pillé muchas opciones al precionar los filtros "map"+"change over time" quedándome solo dos tipos: Cloropleta y puntos jaja. Igual me casé con los datos que encontré en [EDGAR](https://edgar.jrc.ec.europa.eu/report_2025). Me hubiera gustado que se pudiera expandir en el mapa y revisar la producción de GHG en los sectores de cada país pero tampoco caché como. Me decidí por cloropleta, ya que usé los datos de producción de GHG del país, y no hay puntos específicos que mostrar por zona, por lo tanto no fue un heatmap
 
+Datos:
+Se utilizaron los datos anteriormente vistos, a estos se le incluye los datos que ya trae Flourish para las formas de las regiones y su identificación [World Bank Official Boundaries](https://datacatalog.worldbank.org/search/dataset/0038272)
+
+Se hizo el cruce de los datos y se resolvieron conflictos de nombres de los países ya que no siempre eran iguales en los diferentes datasets
