@@ -1,0 +1,1137 @@
+Latitude,Longitude,Disaster Type,Country,Region,Start Year,Total Deaths,Total Affected,Total Damage ('000 US$)
+6.78,125.3,Flood,Philippines,Asia,2010,27.0,40000.0,
+26.235,92.25,Flood,India,Asia,2010,,30000.0,
+-1.12,18.16,Flood,Congo,Africa,2019,,213000.0,
+-5.921,-76.979,Flood,Peru,Americas,2019,,900.0,
+-33.103,-56.046,Flood,Uruguay,Americas,2020,,360.0,
+9.628,18.085,Flood,Chad,Africa,2020,,2062.0,
+9.772,-72.228,Flood,Venezuela (Bolivarian Republic of),Americas,2019,6.0,2000.0,
+14.826,33.921,Flood,Sudan,Africa,2019,78.0,346300.0,
+32.591,130.866,Flood,Japan,Asia,2019,2.0,600.0,
+37.42,69.354,Flood,Tajikistan,Asia,2019,4.0,6750.0,
+-19.041,30.804,Flood,Zimbabwe,Africa,2019,26.0,300.0,
+35.606,52.429,Flood,Iran (Islamic Republic of),Asia,2018,9.0,7135.0,166000.0
+39.591,2.936,Flood,Spain,Europe,2018,13.0,200.0,150000.0
+35.65,137.895,Flood,Japan,Asia,2018,246.0,1500102.0,9500000.0
+-11.158,34.02,Flood,Malawi,Africa,2018,4.0,9113.0,
+15.88,-90.217,Flood,Guatemala,Americas,2018,2.0,76845.0,
+34.94,68.216,Flood,Afghanistan,Asia,2018,72.0,4000.0,
+-11.158,34.02,Flood,United Republic of Tanzania,Africa,2018,15.0,15873.0,
+3.133,3.659,Flood,Malaysia,Asia,2018,,4900.0,
+22.707,39.365,Flood,Saudi Arabia,Asia,2017,4.0,481.0,
+14.594,100.679,Flood,Thailand,Asia,2017,9.0,605000.0,1400.0
+38.261,23.529,Flood,Greece,Europe,2017,23.0,6024.0,
+7.223,17.145,Flood,Central African Republic,Africa,2017,,3500.0,
+45.486,3.338,Flood,France,Europe,2017,1.0,160.0,
+27.941,83.878,Flood,Nepal,Asia,2017,176.0,1700134.0,595000.0
+33.2,134.0,Storm,Japan,Asia,2017,2.0,1389.0,2000.0
+15.581,-85.367,Flood,Honduras,Americas,2017,7.0,400.0,
+7.59,124.062,Flood,Philippines,Asia,2017,13.0,334000.0,
+1.691,-76.286,Flood,Colombia,Americas,2017,,25661.0,
+3.932,102.461,Flood,Malaysia,Asia,2017,,5481.0,
+-31.888,-57.432,Flood,Uruguay,Americas,2017,,6639.0,
+-38.204,176.79,Flood,New Zealand,Oceania,2017,,2200.0,71000.0
+-27.122,-69.952,Flood,Chile,Americas,2017,2.0,3000.0,
+-28.362,29.715,Flood,South Africa,Africa,2017,3.0,200.0,
+-8.718,13.656,Flood,Angola,Africa,2017,11.0,30250.0,2000.0
+37.704,46.169,Flood,Iran (Islamic Republic of),Asia,2017,42.0,,353000.0
+-30.939,-70.249,Flood,Chile,Americas,2017,3.0,1200.0,2000.0
+-5.251,-77.573,Flood,Peru,Americas,2017,1.0,12000.0,
+23.273,-99.793,Flood,Mexico,Americas,2016,2.0,35000.0,
+37.418,22.292,Flood,Greece,Europe,2016,4.0,200.0,56000.0
+23.672,-104.964,Flood,Mexico,Americas,2016,5.0,3000.0,25000.0
+17.071,-93.805,Flood,Mexico,Americas,2016,13.0,6000.0,
+-12.351,39.464,Flood,Mozambique,Africa,2016,16.0,6600.0,
+27.068,93.95,Flood,India,Asia,2016,61.0,,100000.0
+-8.321,13.978,Flood,Angola,Africa,2016,23.0,5600.0,
+61.967,59.803,Flood,Russian Federation,Europe,2016,,3200.0,2000.0
+24.704,113.991,Flood,China,Asia,2016,5.0,219300.0,170000.0
+-0.786,-79.701,Flood,Ecuador,Americas,2016,9.0,10000.0,10000.0
+-29.957,-53.572,Flood,Uruguay,Americas,2015,,10000.0,
+16.691,121.24,Storm,Philippines,Asia,2015,51.0,2898590.0,210985.0
+33.503,-80.493,Storm,United States of America,Americas,2015,25.0,800.0,2000000.0
+43.377,6.53,Flood,France,Europe,2015,20.0,,924000.0
+14.8417,2.5,Flood,Niger,Africa,2015,27.0,87037.0,
+-32.6329,-55.7,Flood,Uruguay,Americas,2015,,2326.0,
+-35.1086,-59.81,Flood,Argentina,Americas,2015,3.0,50000.0,
+26.2074,82.62,Flood,India,Asia,2015,293.0,13709887.0,
+35.0129,72.84,Flood,Pakistan,Asia,2015,10.0,,
+38.0626,73.11,Flood,Tajikistan,Asia,2015,,5401.0,
+-39.8648,175.23,Flood,New Zealand,Oceania,2015,,400.0,171000.0
+21.8734,70.76,Flood,India,Asia,2015,81.0,9000.0,604000.0
+46.8147,22.86,Flood,Romania,Europe,2015,1.0,2000.0,
+-22.3617,-68.89,Flood,Chile,Americas,2015,178.0,193881.0,1500000.0
+-12.1145,13.88,Flood,Angola,Africa,2015,69.0,1000.0,
+-4.31417,33.75,Storm,United Republic of Tanzania,Africa,2015,47.0,5112.0,
+-16.4638,-63.77,Flood,Bolivia (Plurinational State of),Americas,2014,38.0,185120.0,
+-25.2205,-57.58,Flood,Paraguay,Americas,2014,,2000.0,
+-38.3652,-70.3,Flood,Argentina,Americas,2014,,2000.0,
+44.0617,24.49,Flood,Bulgaria,Europe,2014,,,
+48.4049,65.59,Flood,Kazakhstan,Asia,2014,5.0,2709.0,
+7.19301,38.97,Flood,United Republic of Tanzania,Africa,2014,28.0,20000.0,
+7.30951,168.73,Flood,Marshall Islands,Oceania,2014,,360.0,
+-9.678,160.34,Flood,Solomon Islands,Oceania,2014,47.0,52000.0,24000.0
+3.58444,102.36,Flood,Malaysia,Asia,2013,4.0,75000.0,2000.0
+15.0103,13.2,Flood,Niger,Africa,2013,,15086.0,
+15.58,107.7,Flood,Viet Nam,Asia,2013,47.0,2130001.0,72000.0
+12.658,105.084,Flood,Cambodia,Asia,2013,200.0,1500000.0,500000.0
+7.976,80.77,Flood,Sri Lanka,Asia,2012,53.0,447021.0,1200.0
+27.387,94.92,Flood,India,Asia,2013,80.0,2000000.0,
+13.6883,28.99,Flood,Sudan,Africa,2013,76.0,500133.0,7000.0
+35.9161,100.18,Flood,China,Asia,2013,43.0,255000.0,457000.0
+39.6151,126.32,Flood,Democratic People's Republic of Korea,Asia,2013,51.0,848690.0,
+23.6387,114.46,Flood,China,Asia,2013,55.0,300000.0,661000.0
+32.83,36.45,Flood,State of Palestine,Asia,2013,5.0,12500.0,
+-0.86702,121.88,Flood,Indonesia,Asia,2013,8.0,1000.0,
+-24.8006,32.68,Flood,Mozambique,Africa,2013,119.0,240000.0,30000.0
+-27.5,-59.63,Flood,Argentina,Americas,2012,6.0,10000.0,
+-32.93,26.56,Flood,South Africa,Africa,2012,13.0,125000.0,200000.0
+42.33,47.59,Flood,Russian Federation,Europe,2012,7.0,1120.0,
+17.09,99.64,Flood,Thailand,Asia,2012,,235545.0,
+30.1135,78.85,Flood,India,Asia,2012,30.0,1200.0,110000.0
+19.1356,-72.28,Storm,Haiti,Americas,2012,13.0,8007.0,
+41.245,55.844,Flood,Uzbekistan,Asia,2020,4.0,70060.0,
+1.163,36.593,Flood,Kenya,Africa,2020,285.0,810655.0,10000.0
+0.013,31.026,Flood,Uganda,Africa,2020,11.0,25000.0,
+6.89,-58.66,Flood,Guyana,Americas,2006,,35000.0,169000.0
+-9.07,147.28,Flood,Papua New Guinea,Oceania,2006,1.0,12000.0,
+1.07,124.66,Flood,Indonesia,Asia,2006,39.0,17539.0,25000.0
+-24.53,17.98,Flood,Namibia,Africa,2006,5.0,2100.0,8490.0
+42.6,20.83,Flood,Serbia Montenegro,Europe,2006,,1200.0,
+4.33,102.54,Flood,Malaysia,Asia,2006,,4906.0,
+-4.36,16.17,Flood,Democratic Republic of the Congo,Africa,2006,1.0,5500.0,
+17.43,82.81,Flood,India,Asia,2006,20.0,,
+35.67,66.83,Flood,Afghanistan,Asia,2006,19.0,5025.0,
+-6.16,143.7,Mass movement (wet),Papua New Guinea,Oceania,2006,1.0,300.0,
+-3.33,37.22,Flood,United Republic of Tanzania,Africa,2006,,19000.0,
+67.93,-99.99,Flood,Canada,Americas,2006,,300.0,
+26.6,94.02,Flood,India,Asia,2006,21.0,504000.0,
+32.15,-4.05,Flood,Morocco,Africa,2006,6.0,1100.0,
+-3.86,29.67,Flood,Burundi,Africa,2006,1.0,5000.0,
+45.09,34.62,Flood,Ukraine,Europe,2006,2.0,5000.0,23855.0
+25.62,83.67,Flood,Nepal,Asia,2006,,,
+33.06,69.95,Flood,Pakistan,Asia,2006,13.0,300.0,
+26.39,117.28,Storm,China,Asia,2006,109.0,6531000.0,367000.0
+26.39,117.28,Storm,Taiwan (Province of China),Asia,2006,,800.0,
+6.94,6.35,Flood,Nigeria,Africa,2006,,2000.0,
+21.11,110.11,Storm,Philippines,Asia,2006,6.0,15000.0,135000.0
+31.76,-106.39,Flood,Mexico,Americas,2006,,,
+31.76,-106.39,Flood,United States of America,Americas,2006,,,100000.0
+15.86,120.74,Storm,Philippines,Asia,2006,8.0,476027.0,645.0
+9.67,42.19,Flood,Ethiopia,Africa,2006,498.0,10096.0,3200.0
+14.42,-1.02,Flood,Mauritania,Africa,2006,,9000.0,
+17.76,106.15,Flood,Viet Nam,Asia,2006,42.0,50020.0,8000.0
+24.47,-107.04,Storm,Mexico,Americas,2006,4.0,240700.0,2700.0
+16.68,107.21,Storm,Viet Nam,Asia,2006,71.0,1467925.0,624000.0
+18.76,100.02,Flood,Thailand,Asia,2006,164.0,2212413.0,9940.0
+36.86,-94.64,Flood,United States of America,Americas,2007,26.0,2840.0,700000.0
+32.89,73.88,Flood,India,Asia,2006,19.0,15000.0,
+27.59,81.52,Flood,India,Asia,2006,42.0,100000.0,
+3.1,45.44,Flood,Somalia,Africa,2006,5.0,30000.0,
+-3.24,40.01,Flood,Kenya,Africa,2006,30.0,30000.0,
+36.23,44.81,Flood,Iraq,Asia,2006,20.0,18020.0,
+17.02,121.82,Storm,Philippines,Asia,2006,34.0,283021.0,9077.0
+24.93,-107.53,Storm,Mexico,Americas,2006,4.0,20000.0,
+41.65,-7.87,Flood,Spain,Europe,2006,2.0,289.0,
+41.65,-7.87,Flood,Portugal,Europe,2006,3.0,367.0,
+-1.79,29.94,Mass movement (wet),Rwanda,Africa,2006,24.0,2000.0,
+10.33,106.74,Storm,Viet Nam,Asia,2006,95.0,1226360.0,456000.0
+-17.47,35.15,Flood,Mozambique,Africa,2007,29.0,285000.0,71000.0
+7.71,125.22,Flood,Philippines,Asia,2007,9.0,24508.0,4080.0
+15.1,43.88,Flood,Yemen,Asia,2007,7.0,2000.0,
+-10.62,32.59,Flood,Malawi,Africa,2007,,2000.0,
+16.57,49.13,Flood,Yemen,Asia,2007,36.0,618.0,
+54.18,-125.03,Flood,Canada,Americas,2007,,500.0,
+19.55,-71.05,Flood,Haiti,Americas,2007,2.0,12500.0,
+39.4,43.8,Flood,Türkiye,Asia,2007,13.0,750.0,
+42.52,24.5,Flood,Bulgaria,Europe,2007,2.0,1000.0,
+-0.19,116.92,Flood,Indonesia,Asia,2007,4.0,60000.0,
+-3.59,39.76,Flood,Kenya,Africa,2007,2.0,651.0,
+62.34,130.46,Flood,Russian Federation,Europe,2007,,14000.0,25752.0
+16.91,96.13,Flood,Myanmar,Asia,2007,5.0,3000.0,
+4.5,-75.21,Flood,Colombia,Americas,2007,24.0,2035.0,
+33.75,52.2,Flood,Iran (Islamic Republic of),Asia,2007,12.0,,22000.0
+32.84,-97.17,Flood,United States of America,Americas,2007,8.0,5000.0,
+12.91,33.77,Flood,Sudan,Africa,2007,150.0,565335.0,300000.0
+-16.81,35.24,Flood,Malawi,Africa,2007,,180246.0,
+8.33,34.5,Flood,Ethiopia,Africa,2007,17.0,239586.0,
+27.78,84.08,Flood,Nepal,Asia,2007,214.0,640706.0,2400.0
+-3.28,120.2,Flood,Indonesia,Asia,2007,15.0,2000.0,
+36.68,119.23,Flood,China,Asia,2007,83.0,112742.0,329000.0
+18.52,95.32,Flood,Myanmar,Asia,2007,,101920.0,
+22.63,88.49,Flood,India,Asia,2007,1103.0,18700000.0,
+14.64,-61.02,Storm,Dominican Republic,Americas,2007,1.0,1600.0,40000.0
+14.64,-61.02,Storm,Haiti,Americas,2007,9.0,3966.0,
+31.24,76.53,Flood,India,Asia,2007,76.0,15000.0,
+11.54,19.05,Flood,Chad,Africa,2007,12.0,170000.0,
+27.72,104.07,Flood,China,Asia,2007,17.0,213000.0,5500.0
+0.88,34.28,Flood,Kenya,Africa,2007,13.0,40000.0,
+36.37,118.72,Flood,China,Asia,2007,26.0,2430000.0,
+14.62,-83.64,Storm,Mexico,Americas,2007,,30000.0,
+32.78,108.87,Flood,China,Asia,2007,11.0,17500.0,26000.0
+34.78,126.59,Storm,Republic of Korea,Asia,2007,20.0,602.0,70000.0
+10.98,-85.44,Flood,Nicaragua,Americas,2007,10.0,24000.0,
+41.74,25.62,Flood,Greece,Europe,2007,2.0,600.0,
+10.98,-85.44,Flood,Panama,Americas,2007,2.0,129.0,
+18.53,-70.06,Storm,Haiti,Americas,2007,90.0,108763.0,
+12.73,79.7,Flood,India,Asia,2007,29.0,50000.0,
+41.74,26.62,Flood,Türkiye,Asia,2007,1.0,2250.0,
+0.35,32.59,Flood,Uganda,Africa,2007,4.0,3000.0,
+15.3,108.44,Flood,Viet Nam,Asia,2007,55.0,150000.0,350000.0
+11.82,51.02,Flood,Somalia,Africa,2007,21.0,2012.0,
+42.76,20.8,Flood,Serbia,Europe,2007,,12370.0,
+17.08,122.01,Storm,Philippines,Asia,2007,29.0,443115.0,5000.0
+-13.67,131.92,Storm,Australia,Oceania,2007,2.0,820.0,100000.0
+48.91,16.35,Flood,Austria,Europe,2007,,480.0,
+27.58,95.26,Flood,India,Asia,2007,96.0,11100000.0,
+10.39,76.31,Flood,India,Asia,2007,44.0,35000.0,101151.0
+18.93,-71.03,Storm,Puerto Rico,Americas,2007,1.0,,
+-20.4,144.56,Flood,Australia,Oceania,2008,,3200.0,600000.0
+-22.37,-43.13,Flood,Brazil,Americas,2008,9.0,12870.0,
+-6.19,106.85,Flood,Indonesia,Asia,2008,3.0,89761.0,
+-1.25,-79.66,Flood,Ecuador,Americas,2008,41.0,289122.0,1000000.0
+52.92,-1.65,Flood,United Kingdom of Great Britain and Northern Ireland,Europe,2008,,2000.0,
+42.3,68.55,Flood,Kazakhstan,Asia,2008,1.0,13000.0,130000.0
+2.68,-75.42,Flood,Colombia,Americas,2008,11.0,,
+10.76,78.72,Flood,India,Asia,2008,37.0,10278.0,2000.0
+-4.4831667,137.69,Mass movement (wet),Indonesia,Asia,2008,21.0,,
+17.3,-88.1,Storm,Belize,Americas,2008,7.0,10000.0,
+23.542,112.3,Storm,China,Asia,2008,14.0,340000.0,175000.0
+30.87,113.03,Flood,China,Asia,2008,3.0,780000.0,19000.0
+22.05,105.21,Storm,Viet Nam,Asia,2008,162.0,57630.0,120000.0
+9.233,18.35,Flood,Chad,Africa,2008,,6450.0,
+3.48,32.24,Flood,Algeria,Africa,2008,93.0,59050.0,348000.0
+15.86,-89.28,Flood,Honduras,Americas,2008,67.0,313357.0,
+-1.72,29.89,Flood,Rwanda,Africa,2008,,11346.0,
+22.044,94.55,Flood,India,Asia,2008,47.0,2600000.0,20000.0
+15.54,49.78,Flood,Yemen,Asia,2008,90.0,25064.0,400000.0
+0.05,35.12,Flood,Kenya,Africa,2008,17.0,30770.0,
+19.16,109.82,Flood,China,Asia,2008,3.0,50000.0,
+36.16,45.11,Flood,Iraq,Asia,2008,4.0,600.0,
+9.77,-66.4,Flood,Venezuela (Bolivarian Republic of),Americas,2008,8.0,1500.0,
+-30.05,151.49,Storm,Australia,Oceania,2008,1.0,12000.0,450000.0
+15.7,107.71,Storm,Viet Nam,Asia,2008,17.0,8828.0,1000.0
+41.83,13.16,Flood,Italy,Europe,2008,3.0,,278000.0
+7.01,-58.58,Flood,Guyana,Americas,2008,,100000.0,
+18.89,107.06,Flood,Viet Nam,Asia,2008,9.0,20000.0,
+6.64,101.1,Flood,Malaysia,Asia,2008,,6000.0,
+47.61,24.93,Flood,Romania,Europe,2009,11.0,,
+29.61,0.71,Flood,Algeria,Africa,2009,33.0,2548.0,
+-24.15,-64.29,Mass movement (wet),Argentina,Americas,2009,4.0,20000.0,15000.0
+16.68,-17.08,Flood,Angola,Africa,2009,60.0,220000.0,
+-18.76,24.23,Flood,Zambia,Africa,2009,31.0,614814.0,
+-18.76,-62.62,Flood,Bolivia (Plurinational State of),Americas,2009,,63000.0,
+30.84,-85.23,Flood,United States of America,Americas,2009,,1000.0,
+-33.07,18.92,Flood,South Africa,Africa,2009,11.0,20000.0,
+50.13,18.03,Flood,Czechia,Europe,2009,13.0,14450.0,150000.0
+13.42,-88.64,Flood,Guatemala,Americas,2009,,10800.0,
+26.85,110.28,Flood,China,Asia,2009,11.0,106000.0,59000.0
+20.67,104.3,Flood,Viet Nam,Asia,2009,20.0,700000.0,
+15.58,-16.81,Flood,Senegal,Africa,2009,6.0,264000.0,
+41.09,38.95,Flood,Türkiye,Asia,2009,40.0,35020.0,550000.0
+8.85,-0.99,Flood,Ghana,Africa,2009,24.0,139790.0,
+27.01,15.98,Flood,Sudan,Africa,2009,20.0,111455.0,
+38.11,15.73,Flood,Italy,Europe,2009,35.0,5140.0,20000.0
+29.81,80.76,Flood,Nepal,Asia,2009,87.0,257786.0,60000.0
+13.77,-89.0,Storm,El Salvador,Americas,2009,275.0,90000.0,939000.0
+11.47,77.85,Flood,India,Asia,2009,70.0,8.0,64000.0
+-6.77,35.89,Flood,United Republic of Tanzania,Africa,2009,20.0,,
+-32.42,149.59,Flood,Australia,Oceania,2010,,,
+45.08,79.21,Flood,Kazakhstan,Asia,2010,44.0,16200.0,34576.0
+9.2,45.49,Flood,Somalia,Africa,2010,,16000.0,
+14.03,44.31,Flood,Yemen,Asia,2010,7.0,1002.0,
+6.83,80.59,Flood,Sri Lanka,Asia,2010,28.0,606072.0,105000.0
+46.82,27.97,Flood,Republic of Moldova,Europe,2010,1.0,12000.0,
+20.61,41.17,Flood,Saudi Arabia,Asia,2010,10.0,85.0,
+12.94,-1.39,Flood,Burkina Faso,Africa,2010,16.0,133362.0,176.0
+11.385,14.63,Flood,Chad,Africa,2010,24.0,144579.0,
+35.21,68.85,Flood,Afghanistan,Asia,2010,65.0,5000.0,
+16.245,-7.65,Flood,Mauritania,Africa,2010,,8750.0,
+15.03,102.2,Flood,Thailand,Asia,2010,258.0,8970653.0,332000.0
+20.48,-75.88,Storm,Haiti,Americas,2010,21.0,5020.0,
+9.77,-66.93,Flood,Morocco,Africa,2010,32.0,75003.0,29000.0
+37.811,-5.87,Flood,Spain,Europe,2010,2.0,6500.0,
+8.88,-78.59,Flood,Panama,Americas,2010,13.0,24610.0,
+-6.8436,108.26,Flood,Indonesia,Asia,2011,,12000.0,
+-29.5025,28.08,Flood,Lesotho,Africa,2011,26.0,5000.0,
+8.513,80.53,Flood,Sri Lanka,Asia,2011,18.0,225000.0,300000.0
+14.951,4.555,Flood,Niger,Africa,2011,7.0,13000.0,
+8.666,99.28,Flood,Thailand,Asia,2011,64.0,716110.0,317000.0
+-31.055,28.41,Flood,South Africa,Africa,2011,40.0,200321.0,211000.0
+5.69,-74.15,Flood,Colombia,Americas,2011,138.0,988599.0,1030000.0
+-28.28,-52.91,Flood,Brazil,Americas,2011,12.0,31600.0,
+51.448,53.67,Flood,Kazakhstan,Asia,2011,2.0,16000.0,67000.0
+8.306,125.21,Flood,Philippines,Asia,2011,12.0,944781.0,10666.0
+29.565,1.7,Flood,Algeria,Africa,2011,10.0,793.0,779000.0
+27.89,14.47,Flood,China,Asia,2011,467.0,67900000.0,6400000.0
+8.7372,4.47,Flood,Nigeria,Africa,2011,120.0,3000.0,
+25.012,69.07,Flood,Pakistan,Asia,2011,509.0,5400755.0,2500000.0
+4.64,-73.94,Flood,Colombia,Americas,2011,135.0,498924.0,1290000.0
+26.59,92.18,Flood,India,Asia,2011,7.0,11000.0,
+26.376,86.24,Flood,India,Asia,2011,204.0,5549080.0,
+28.524,80.93,Flood,India,Asia,2011,19.0,200000.0,
+-6.917,39.04,Flood,United Republic of Tanzania,Africa,2011,20.0,50200.0,
+26.566,92.44,Flood,India,Asia,2012,120.0,2200000.0,
+-22.56,-43.36,Flood,Brazil,Americas,2006,12.0,,
+-16.03,-63.43,Flood,Bolivia (Plurinational State of),Americas,2006,25.0,126096.0,35000.0
+-17.82,177.68,Storm,Fiji,Oceania,2006,,168.0,
+-2.23,-79.98,Flood,Ecuador,Americas,2006,16.0,57670.0,2800.0
+14.54,44.18,Flood,Yemen,Asia,2006,5.0,2000.0,
+-17.91,145.54,Storm,Australia,Oceania,2006,,7030.0,1180000.0
+5.43,-75.6,Flood,Colombia,Americas,2006,150.0,221465.0,
+-25.68,115.13,Storm,Australia,Oceania,2006,,500.0,
+45.26,20.75,Flood,Serbia Montenegro,Europe,2006,,35000.0,
+2.81,-52.29,Flood,Brazil,Americas,2006,8.0,116000.0,
+44.5,23.87,Flood,Romania,Europe,2006,,,
+26.92,106.58,Flood,China,Asia,2006,22.0,36900.0,36000.0
+25.97,118.77,Storm,China,Asia,2006,23.0,3150000.0,475000.0
+50.13,-99.99,Flood,Canada,Americas,2006,1.0,400.0,
+18.18,100.15,Flood,Thailand,Asia,2006,116.0,342895.0,25000.0
+34.52,65.56,Flood,Afghanistan,Asia,2006,21.0,615.0,
+25.51,106.51,Flood,China,Asia,2006,50.0,12000.0,141000.0
+24.07,120.79,Flood,Taiwan (Province of China),Asia,2006,3.0,300.0,116130.0
+26.01,108.45,Flood,China,Asia,2006,6.0,270000.0,6500.0
+43.32,83.77,Flood,China,Asia,2006,20.0,2416.0,
+40.41,-75.78,Flood,United States of America,Americas,2006,11.0,65000.0,1000000.0
+37.56,127.17,Flood,Democratic People's Republic of Korea,Asia,2006,278.0,84500.0,
+23.23,89.27,Flood,Bangladesh,Asia,2006,,135775.0,
+47.73,128.9,Flood,China,Asia,2006,,4000.0,
+33.06,69.95,Flood,Afghanistan,Asia,2006,10.0,,
+19.17,83.65,Flood,India,Asia,2006,33.0,,
+35.34,136.22,Flood,Japan,Asia,2006,34.0,6232.0,
+26.39,117.39,Storm,Philippines,Asia,2006,4.0,200355.0,471.0
+24.66,102.18,Flood,China,Asia,2006,35.0,,
+34.08,69.75,Flood,Afghanistan,Asia,2006,54.0,8000.0,
+20.19,73.82,Flood,India,Asia,2006,350.0,4000065.0,3390000.0
+20.19,73.82,Flood,Pakistan,Asia,2006,,,
+5.24,36.22,Flood,Ethiopia,Africa,2006,364.0,8000.0,
+19.73,83.75,Storm,India,Asia,2006,114.0,150300.0,
+47.86,-122.15,Flood,United States of America,Americas,2006,2.0,1500.0,
+7.32,80.03,Flood,Sri Lanka,Asia,2006,25.0,333002.0,3000.0
+4.64,44.6,Flood,Somalia,Africa,2006,52.0,299000.0,
+10.33,106.74,Storm,Philippines,Asia,2006,1399.0,2562517.0,66400.0
+-12.95,24.37,Flood,Zambia,Africa,2007,4.0,1400000.0,
+2.19,103.37,Flood,Malaysia,Asia,2007,17.0,137533.0,605000.0
+-8.87,13.36,Flood,Angola,Africa,2007,105.0,40000.0,
+-3.14,30.4,Flood,Burundi,Africa,2007,4.0,23000.0,
+-10.62,32.59,Flood,Zambia,Africa,2007,,118755.0,
+-35.35,173.98,Storm,New Zealand,Oceania,2007,,300.0,
+36.52,70.6,Flood,Afghanistan,Asia,2007,23.0,2950.0,
+-31.99,-59.12,Flood,Argentina,Americas,2007,5.0,70000.0,10000.0
+7.44,99.65,Flood,Thailand,Asia,2007,38.0,,
+27.2,116.14,Flood,China,Asia,2007,,250000.0,13000.0
+19.55,-71.05,Flood,Dominican Republic,Americas,2007,9.0,16000.0,
+43.3,-0.47,Storm,France,Europe,2007,1.0,900.0,
+17.21,100.34,Flood,Thailand,Asia,2007,,1000.0,
+36.29,68.85,Flood,Afghanistan,Asia,2007,10.0,645.0,
+52.52,-0.76,Flood,United Kingdom of Great Britain and Northern Ireland,Europe,2007,1.0,200.0,448000.0
+20.05,81.86,Flood,India,Asia,2007,29.0,50000.0,
+34.27,71.87,Flood,Pakistan,Asia,2007,130.0,2000.0,
+42.23,-74.95,Flood,United States of America,Americas,2007,4.0,120.0,
+34.98,72.23,Flood,Pakistan,Asia,2007,22.0,500.0,
+31.69,130.9,Storm,Japan,Asia,2007,5.0,40012.0,60000.0
+5.45,37.12,Flood,Ethiopia,Africa,2007,,5800.0,
+11.45,-4.39,Flood,Burkina Faso,Africa,2007,52.0,121043.0,
+23.92,91.23,Flood,Bangladesh,Asia,2007,1110.0,13771380.0,100000.0
+23.92,91.23,Flood,India,Asia,2007,,,
+43.09,88.21,Flood,China,Asia,2007,29.0,350000.0,80000.0
+34.53,66.13,Flood,Afghanistan,Asia,2007,9.0,2500.0,
+14.54,-61.02,Storm,Mexico,Americas,2007,9.0,140000.0,600000.0
+14.64,-61.02,Storm,Martinique,Americas,2007,1.0,6.0,300000.0
+27.0,119.91,Storm,Taiwan (Province of China),Asia,2007,,1812.0,25000.0
+14.62,-83.64,Storm,Guatemala,Americas,2007,,3905.0,
+46.76,25.6,Flood,Romania,Europe,2007,2.0,1400.0,
+15.47,-13.97,Flood,Mauritania,Africa,2007,1.0,500.0,
+6.51,-10.58,Flood,Liberia,Africa,2007,1.0,17000.0,
+15.08,45.73,Flood,Yemen,Asia,2007,50.0,,
+13.28,105.88,Flood,Cambodia,Asia,2007,2.0,19000.0,1000.0
+10.29,11.75,Flood,Nigeria,Africa,2007,68.0,50000.0,
+2.98,45.43,Flood,Somalia,Africa,2007,4.0,8000.0,
+14.62,-83.64,Storm,Nicaragua,Americas,2007,177.0,188726.0,
+-1.68,29.42,Flood,Rwanda,Africa,2007,20.0,4000.0,
+-30.25,-52.67,Flood,Brazil,Americas,2007,4.0,4000.0,
+36.95,9.71,Flood,Tunisia,Africa,2007,16.0,5000.0,
+10.98,-85.44,Flood,Costa Rica,Americas,2007,19.0,12000.0,80000.0
+10.98,-85.44,Flood,Honduras,Americas,2007,5.0,15000.0,
+17.67,-92.41,Flood,Mexico,Americas,2007,22.0,1600000.0,3000000.0
+11.01,105.51,Flood,Viet Nam,Asia,2007,3.0,280000.0,
+41.74,25.62,Flood,Bulgaria,Europe,2007,2.0,60.0,
+-9.03,149.22,Storm,Papua New Guinea,Oceania,2007,172.0,162140.0,
+42.46,20.8,Flood,Montenegro,Europe,2007,,1086.0,
+36.75,2.96,Flood,Algeria,Africa,2007,14.0,1203.0,
+-16.66,31.24,Flood,Zimbabwe,Africa,2007,3.0,15000.0,
+-7.54,111.33,Flood,Indonesia,Asia,2007,127.0,269515.0,
+3.89,102.93,Flood,Thailand,Asia,2007,3.0,65000.0,
+-19.06,34.36,Flood,Mozambique,Africa,2007,20.0,113535.0,100000.0
+-17.66,-65.3,Flood,Bolivia (Plurinational State of),Americas,2007,75.0,485024.0,500000.0
+-18.69,46.9,Storm,Madagascar,Africa,2008,93.0,524153.0,60000.0
+-6.8,111.06,Flood,Indonesia,Asia,2008,11.0,3500.0,
+-5.36,-41.68,Flood,Brazil,Americas,2008,36.0,190000.0,360000.0
+-3.38,38.17,Flood,Kenya,Africa,2008,,700.0,
+-29.67,31.09,Flood,South Africa,Africa,2008,11.0,4000.0,1264.0
+13.16,122.6,Storm,Philippines,Asia,2008,644.0,4785460.0,284694.0
+18.46,-71.69,Storm,Haiti,Americas,2008,74.0,125050.0,
+53.26,-1.8,Flood,Iran (Islamic Republic of),Asia,2008,19.0,200.0,
+53.26,-1.8,Flood,United Kingdom of Great Britain and Northern Ireland,Europe,2008,8.0,3000.0,50000.0
+21.02,90.21,Flood,Bangladesh,Asia,2008,12.0,615638.0,
+39.24,44.69,Flood,Iran (Islamic Republic of),Asia,2008,3.0,1280.0,
+15.86,-89.28,Flood,Belize,Americas,2008,1.0,38000.0,9697.0
+33.73,-4.77,Flood,Morocco,Africa,2008,30.0,20000.0,
+20.74,106.32,Flood,Viet Nam,Asia,2008,99.0,600000.0,479000.0
+0.83,43.06,Flood,Ethiopia,Africa,2008,11.0,23831.0,
+7.55,100.1,Flood,Thailand,Asia,2008,21.0,700000.0,11500.0
+-25.1,-49.34,Flood,Brazil,Americas,2008,151.0,1500015.0,750000.0
+9.0,-74.23,Flood,Colombia,Americas,2008,76.0,1200091.0,
+4.94,101.8,Flood,Malaysia,Asia,2008,,2000.0,
+17.2,121.8,Flood,Philippines,Asia,2008,29.0,50000.0,
+30.74,72.63,Flood,Pakistan,Asia,2008,37.0,90752.0,
+6.64,101.1,Flood,Thailand,Asia,2008,,32584.0,344.0
+27.5,89.79,Flood,India,Asia,2008,142.0,225000.0,
+-22.92,34.03,Flood,Mozambique,Africa,2008,25.0,3500.0,
+43.5,18.18,Flood,Bosnia and Herzegovina,Europe,2009,,2630.0,
+6.55,106.36,Flood,Indonesia,Asia,2009,64.0,1600.0,
+19.56,-72.33,Flood,Haiti,Americas,2009,11.0,9910.0,
+22.16,89.09,Storm,Bangladesh,Asia,2009,190.0,3935341.0,270000.0
+-16.7,23.32,Flood,Botswana,Africa,2009,,3789.0,
+13.42,-88.64,Flood,Nicaragua,Americas,2009,,64.0,
+24.99,67.19,Flood,Pakistan,Asia,2009,52.0,70.0,
+25.31,112.71,Flood,China,Asia,2009,90.0,39372000.0,1000000.0
+56.4778,31.26,Flood,Brazil,Americas,2009,11.0,10000.0,50000.0
+8.57,-12.73,Flood,Sierra Leone,Africa,2009,103.0,1470.0,
+19.5,-99.25,Flood,Mexico,Americas,2009,4.0,1500.0,
+30.86,101.18,Flood,China,Asia,2009,20.0,38.0,33000.0
+4.113,-72.96,Flood,Colombia,Americas,2010,418.0,2791999.0,1000000.0
+15.71,78.23,Flood,India,Asia,2009,355.0,4100000.0,2150000.0
+17.83,104.79,Flood,Lao People's Democratic Republic,Asia,2009,10.0,,
+54.0,-1.66,Flood,United Kingdom of Great Britain and Northern Ireland,Europe,2009,3.0,3900.0,484000.0
+-32.99,-59.05,Flood,Argentina,Americas,2009,7.0,30618.0,
+40.23,21.24,Flood,Saudi Arabia,Asia,2009,161.0,10000.0,900000.0
+8.02,81.27,Flood,Sri Lanka,Asia,2009,3.0,300000.0,
+39.59,125.71,Flood,Democratic People's Republic of Korea,Asia,2010,,17000.0,
+16.45,-96.97,Flood,Mexico,Americas,2009,11.0,,
+-4.68,-78.29,Flood,Peru,Americas,2010,20.0,80000.0,
+18.42,73.77,Flood,Haiti,Americas,2010,27.0,22085.0,
+38.98,-4.04,Flood,Spain,Europe,2010,,7500.0,
+48.59,24.79,Flood,Ukraine,Europe,2010,6.0,40059.0,1900.0
+19.25,-70.39,Flood,Dominican Republic,Americas,2010,6.0,9500.0,
+6.01,-7.2,Flood,Liberia,Africa,2010,1.0,15486.0,
+17.1,121.47,Storm,Philippines,Asia,2010,146.0,585474.0,8675.0
+18.7,36.7,Flood,Sudan,Africa,2010,33.0,10000.0,
+16.73,47.92,Flood,Yemen,Asia,2010,15.0,,
+-38.07,143.32,Flood,Australia,Oceania,2010,,10000.0,
+-1.22,132.81,Flood,Indonesia,Asia,2010,291.0,12428.0,78000.0
+28.89,-97.06,Storm,United States of America,Americas,2010,8.0,,240000.0
+-8.672,121.6,Flood,Indonesia,Asia,2010,16.0,200.0,
+17.71,121.8,Flood,Philippines,Asia,2010,16.0,450673.0,
+24.21,91.03,Flood,Bangladesh,Asia,2010,15.0,500000.0,
+9.40044,125.78,Flood,Philippines,Asia,2011,23.0,638418.0,12411.0
+7.603,81.25,Flood,Sri Lanka,Asia,2011,47.0,1060324.0,200000.0
+35.0754,63.99,Flood,Afghanistan,Asia,2011,25.0,3065.0,
+34.1,-90.83,Flood,United States of America,Americas,2011,1.0,25000.0,
+43.05,20.87,Flood,Serbia,Europe,2011,,5000.0,
+18.59,-71.99,Flood,Dominican Republic,Americas,2011,4.0,11200.0,
+17.038,102.82,Flood,Thailand,Asia,2011,813.0,9500000.0,40000000.0
+12.004,105.5,Flood,Cambodia,Asia,2011,247.0,1640023.0,521000.0
+1.664,33.67,Flood,Uganda,Africa,2011,27.0,63075.0,
+5.5847,-0.95,Flood,Ghana,Africa,2011,14.0,81473.0,
+37.851,126.87,Flood,Republic of Korea,Asia,2011,53.0,29000.0,52000.0
+-30.34,-52.64,Flood,Brazil,Americas,2011,3.0,3000.0,
+0.385,36.12,Flood,Kenya,Africa,2011,25.0,91692.0,
+8.526,124.88,Storm,Philippines,Asia,2011,1439.0,1150300.0,38082.0
+-6.284,15.46,Flood,Angola,Africa,2011,,5500.0,
+61.2832,10.478,Flood,Norway,Europe,2013,,500.0,
+-1.83097,34.79,Flood,United Republic of Tanzania,Africa,2012,10.0,,
+2.46174,36.72,Flood,Kenya,Africa,2013,96.0,100020.0,36000.0
+-17.784,178.08,Flood,Fiji,Oceania,2012,10.0,4561.0,17000.0
+42.555,24.26,Flood,Bulgaria,Europe,2012,5.0,37950.0,4400.0
+-17.798,178.02,Flood,Fiji,Oceania,2012,5.0,14984.0,72000.0
+19.4433,-72.58,Flood,Haiti,Americas,2012,9.0,11000.0,
+20.5946,51.01,Flood,Saudi Arabia,Asia,2012,19.0,,
+32.452,106.493,Flood,China,Asia,2012,53.0,185000.0,316333.0
+33.4553,106.94,Flood,China,Asia,2012,91.0,17440000.0,1200000.0
+28.9635,-82.5,Storm,United States of America,Americas,2012,9.0,17001.0,210000.0
+28.524,83.83,Flood,Nepal,Asia,2012,72.0,5.0,1000.0
+3.606,-73.07,Flood,Colombia,Americas,2012,17.0,56000.0,40000.0
+16.5919,97.85,Flood,Myanmar,Asia,2012,2.0,85000.0,
+14.46,-15.49,Flood,Senegal,Africa,2012,19.0,57000.0,10000.0
+2.65,32.72,Flood,Uganda,Africa,2012,,15000.0,
+26.8,93.63,Flood,India,Asia,2012,21.0,2000000.0,98000.0
+11.82,78.08,Storm,India,Asia,2012,40.0,70000.0,
+36.53,54.26,Flood,Iran (Islamic Republic of),Asia,2012,7.0,1000.0,
+35.03,73.52,Flood,Pakistan,Asia,2012,26.0,1200.0,
+9.69,30.21,Flood,South Sudan,Africa,2012,32.0,154000.0,
+28.899,-98.89,Flood,United States of America,Americas,2013,3.0,300.0,2000.0
+-15.6178,35.02,Flood,Malawi,Africa,2013,3.0,33000.0,
+7.59777,80.92,Flood,Sri Lanka,Asia,2013,52.0,56747.0,
+1.0256,124.51,Flood,Indonesia,Asia,2013,17.0,58040.0,2000.0
+-20.2305,57.52,Flood,Mauritius,Africa,2013,11.0,82.0,2000.0
+-24.146,-57.65,Flood,Paraguay,Americas,2013,,61400.0,
+1.66076,35.21,Flood,Kenya,Africa,2013,,5000.0,
+30.4563,104.02,Flood,China,Asia,2013,233.0,3500000.0,4621600.0
+2.16964,43.66,Flood,Somalia,Africa,2013,7.0,50000.0,
+43.2579,2.54,Flood,France,Europe,2013,1.0,1200.0,
+22.9043,-81.4,Flood,Cuba,Americas,2013,2.0,227.0,
+2.954,99.677,Flood,Indonesia,Asia,2013,,16000.0,
+13.9188,-60.99,Flood,Saint Vincent and the Grenadines,Americas,2013,12.0,17422.0,108000.0
+-18.9538,-41.94,Flood,Brazil,Americas,2013,64.0,43300.0,540000.0
+53.2732,-1.51,Flood,United Kingdom of Great Britain and Northern Ireland,Europe,2013,2.0,600.0,1500000.0
+43.9958,7.1,Flood,Italy,Europe,2014,2.0,1601.0,120000.0
+44.0617,24.49,Flood,Romania,Europe,2014,,525.0,
+44.0617,24.49,Flood,Serbia,Europe,2014,,3000.0,
+-18.795,35.36,Flood,Malawi,Africa,2015,278.0,638645.0,390000.0
+14.826,-90.613,Mass movement (wet),Guatemala,Americas,2015,350.0,1112.0,5000.0
+-8.81664,13.68,Flood,Angola,Africa,2015,1.0,2000.0,
+18.695,-72.19,Flood,Haiti,Americas,2015,6.0,45000.0,
+33.5131,71.89,Flood,Pakistan,Asia,2015,49.0,5067.0,1000.0
+-41.092,175.35,Flood,New Zealand,Oceania,2015,1.0,100.0,100000.0
+19.4811,-103.43,Flood,Mexico,Americas,2015,,3000.0,
+9.953,11.528,Flood,Nigeria,Africa,2015,53.0,100420.0,25000.0
+28.334,-6.955,Flood,Algeria,Africa,2015,,35000.0,
+23.812,108.795,Flood,China,Asia,2018,5.0,70000.0,
+35.666,-91.083,Flood,United States of America,Americas,2015,31.0,4050.0,600000.0
+-17.956,-56.442,Flood,Brazil,Americas,2016,3.0,50500.0,100000.0
+-2.465,103.352,Flood,Indonesia,Asia,2016,8.0,80313.0,2000.0
+9.268,41.691,Flood,Ethiopia,Africa,2016,28.0,3080.0,
+-32.435,-56.195,Flood,Uruguay,Americas,2016,8.0,10605.0,3000.0
+27.464,95.607,Flood,India,Asia,2016,18.0,100000.0,150000.0
+30.857,-95.537,Flood,United States of America,Americas,2016,15.0,,300000.0
+32.603,130.99,Flood,Japan,Asia,2016,7.0,6000.0,
+58.292,-123.249,Flood,Canada,Americas,2016,,300.0,
+17.654,80.34,Flood,India,Asia,2016,28.0,3000.0,589000.0
+16.004,107.68,Flood,Viet Nam,Asia,2016,35.0,659615.0,104280.0
+19.739,-72.587,Flood,Haiti,Americas,2016,13.0,2782.0,
+14.445,100.753,Flood,Thailand,Asia,2016,14.0,582343.0,25000.0
+-7.029,107.162,Flood,Indonesia,Asia,2017,2.0,400.0,
+-11.004,-75.148,Flood,Peru,Americas,2017,184.0,1800505.0,3100000.0
+-8.096,-38.231,Flood,Brazil,Americas,2017,14.0,104140.0,100000.0
+3.723,-72.674,Flood,Colombia,Americas,2017,1.0,2000.0,
+-22.479,-44.095,Flood,Brazil,Americas,2018,4.0,250.0,10000.0
+53.102,-6.856,Flood,United Kingdom of Great Britain and Northern Ireland,Europe,2017,,100.0,
+14.617,4.402,Flood,Niger,Africa,2017,56.0,206513.0,10000.0
+42.201,26.548,Flood,Bulgaria,Europe,2017,4.0,,
+11.664,108.399,Flood,Viet Nam,Asia,2017,8.0,41500.0,
+-7.229,109.117,Flood,Indonesia,Asia,2017,9.0,12000.0,
+10.489,79.004,Flood,India,Asia,2017,21.0,4000.0,
+-3.47,29.987,Flood,Burundi,Africa,2018,,12000.0,
+3.659,102.337,Flood,Malaysia,Asia,2018,2.0,12000.0,
+40.866,19.941,Flood,Albania,Europe,2018,,800.0,
+-11.247,16.007,Flood,Angola,Africa,2018,8.0,3000.0,
+-14.926,34.367,Flood,Malawi,Africa,2018,,200.0,
+-17.015,145.218,Flood,Australia,Oceania,2018,,600.0,11400.0
+-35.21,-58.199,Storm,Argentina,Americas,2018,2.0,1200.0,
+-8.497,118.569,Flood,Indonesia,Asia,2018,,3000.0,
+28.238,84.398,Flood,Nepal,Asia,2018,15.0,1406.0,
+10.763,27.364,Flood,Sudan,Africa,2018,,2750.0,
+38.531,126.573,Flood,Democratic People's Republic of Korea,Asia,2018,148.0,581268.0,25000.0
+9.538,-1.066,Flood,Ghana,Africa,2018,34.0,100000.0,
+31.991,67.078,Flood,Afghanistan,Asia,2019,63.0,129100.0,
+-23.539,-46.124,Flood,Brazil,Americas,2019,12.0,1306.0,
+20.176,-103.182,Flood,Mexico,Americas,2019,7.0,3000.0,
+34.668,67.894,Flood,Afghanistan,Asia,2019,24.0,561.0,
+8.223,123.493,Flood,Philippines,Asia,2019,,45000.0,
+4.415,102.584,Flood,Malaysia,Asia,2019,2.0,15000.0,
+-39.27,-12.906,Flood,Brazil,Americas,2019,,300.0,
+-6.533,107.508,Flood,Indonesia,Asia,2019,66.0,501110.0,1200000.0
+-18.95,47.184,Flood,Madagascar,Africa,2020,40.0,106846.0,
+-1.994,29.863,Flood,Rwanda,Africa,2020,3.0,5242.0,
+29.021,30.754,Flood,Egypt,Africa,2020,40.0,20400.0,76000.0
+11.685,42.68,Flood,Djibouti,Africa,2020,8.0,110000.0,
+13.343,-1.116,Flood,Burkina Faso,Africa,2020,,21000.0,
+4.022,9.2,Flood,Cameroon,Africa,2001,30.0,1500.0,
+-45.69,170.37,Flood,New Zealand,Oceania,2006,,1200.0,3000.0
+-8.44,117.29,Mass movement (wet),Indonesia,Asia,2006,11.0,3000.0,10943.0
+-16.45,179.65,Flood,Fiji,Oceania,2006,4.0,224.0,500.0
+-6.85,108.59,Flood,Indonesia,Asia,2006,19.0,10000.0,27100.0
+27.67,-5.91,Flood,Algeria,Africa,2006,1.0,60000.0,1200.0
+5.27,102.15,Flood,Malaysia,Asia,2006,,500.0,
+-14.59,35.12,Flood,Malawi,Africa,2006,3.0,8000.0,
+49.86,16.09,Flood,Austria,Europe,2006,,516.0,
+49.86,16.09,Flood,Czechia,Europe,2006,6.0,4200.0,
+49.86,16.09,Flood,Germany,Europe,2006,3.0,1000.0,
+48.67,19.08,Flood,Slovakia,Europe,2006,1.0,,
+15.1,43.88,Flood,Yemen,Asia,2006,25.0,320.0,
+50.78,87.14,Flood,Russian Federation,Europe,2006,,420.0,7411.0
+2.25,37.53,Flood,Kenya,Africa,2006,60.0,17300.0,
+49.72,-56.05,Flood,Canada,Americas,2006,,200.0,
+44.5,23.87,Flood,Ukraine,Europe,2006,,,
+18.37,94.95,Storm,Myanmar,Asia,2006,34.0,60106.0,
+26.75,118.57,Flood,China,Asia,2006,57.0,356000.0,393000.0
+26.2,112.75,Flood,China,Asia,2006,2.0,1410000.0,
+23.42,111.38,Flood,China,Asia,2006,21.0,4600024.0,
+31.54,130.99,Flood,Japan,Asia,2006,8.0,4300.0,
+49.5,20.93,Flood,Poland,Europe,2006,,500.0,
+-5.17,120.11,Flood,Indonesia,Asia,2006,236.0,29231.0,55200.0
+47.15,47.46,Flood,Romania,Europe,2006,15.0,6260.0,
+24.73,116.87,Flood,China,Asia,2006,23.0,5000.0,
+-3.29,115.49,Flood,Indonesia,Asia,2006,52.0,18250.0,
+47.8,25.95,Flood,Romania,Europe,2006,12.0,10800.0,
+34.04,117.03,Flood,China,Asia,2006,30.0,4120000.0,679000.0
+27.06,111.06,Flood,China,Asia,2006,29.0,2375016.0,
+25.62,83.67,Flood,India,Asia,2006,130.0,300000.0,
+50.79,106.52,Flood,Russian Federation,Europe,2006,,6000.0,
+24.0,112.11,Storm,China,Asia,2006,820.0,29622000.0,3325000.0
+24.0,112.11,Storm,Philippines,Asia,2006,37.0,51680.0,3000.0
+11.43,103.53,Flood,Cambodia,Asia,2006,,5000.0,
+22.41,71.31,Flood,India,Asia,2006,24.0,8400.0,
+34.61,73.2,Flood,India,Asia,2006,15.0,800.0,
+39.04,106.59,Flood,China,Asia,2006,1.0,1200.0,
+21.11,110.11,Storm,China,Asia,2006,89.0,10000000.0,900000.0
+25.03,67.12,Flood,Pakistan,Asia,2006,74.0,5050.0,
+46.04,7.39,Flood,Switzerland,Europe,2006,,3000.0,
+2.665,45.45,Flood,Somalia,Africa,2006,5.0,2000.0,
+-33.538,26.3,Flood,South Africa,Africa,2006,6.0,3000.0,145000.0
+14.42,-1.02,Flood,Mali,Africa,2006,1.0,1000.0,
+14.42,-1.02,Flood,Nigeria,Africa,2006,,10000.0,
+1.38,34.28,Flood,Uganda,Africa,2006,3.0,1680.0,
+34.74,-77.87,Storm,United States of America,Americas,2006,6.0,140.0,32860.0
+34.7,102.68,Flood,China,Asia,2006,15.0,,
+25.35,-111.81,Storm,Mexico,Americas,2006,7.0,10000.0,
+19.73,83.75,Storm,Bangladesh,Asia,2006,115.0,9135.0,
+16.68,107.21,Storm,Philippines,Asia,2006,228.0,3842406.0,113000.0
+40.76,23.65,Flood,Greece,Europe,2006,1.0,3000.0,5659.0
+37.21,-87.62,Flood,United States of America,Americas,2006,14.0,1210.0,
+32.89,73.88,Flood,Pakistan,Asia,2006,20.0,,
+-4.24,15.43,Flood,Congo,Africa,2006,6.0,5000.0,
+7.61,125.83,Flood,Philippines,Asia,2006,2.0,40000.0,763.0
+8.9,-78.71,Flood,Panama,Americas,2006,11.0,4530.0,
+-15.96,34.51,Flood,Malawi,Africa,2006,5.0,8000.0,
+18.5,-73.48,Flood,Haiti,Americas,2006,11.0,20010.0,
+12.44,124.77,Flood,Philippines,Asia,2006,,415618.0,3395.0
+18.1,81.53,Flood,India,Asia,2006,185.0,2000000.0,
+37.01,70.73,Flood,Afghanistan,Asia,2007,36.0,,
+-22.42,-44.0,Flood,Brazil,Americas,2007,59.0,200080.0,125000.0
+-17.47,35.15,Flood,Malawi,Africa,2007,2.0,17719.0,
+3.56,125.54,Mass movement (wet),Indonesia,Asia,2007,32.0,3990.0,
+34.88,-90.07,Flood,United States of America,Americas,2007,24.0,,
+-16.97,-61.96,Flood,Bolivia (Plurinational State of),Americas,2007,40.0,339495.0,90000.0
+-1.73,29.48,Flood,Rwanda,Africa,2007,10.0,500.0,9.0
+40.63,73.83,Flood,Kyrgyzstan,Asia,2007,,845.0,200.0
+-18.49,46.34,Flood,Madagascar,Africa,2007,7.0,33000.0,
+12.95,24.37,Flood,Namibia,Africa,2007,7.0,15000.0,
+-8.57,120.76,Flood,Indonesia,Asia,2007,74.0,11556.0,
+33.25,64.89,Flood,Afghanistan,Asia,2007,104.0,20000.0,
+41.65,-0.65,Flood,Spain,Europe,2007,1.0,5000.0,
+19.41,-71.78,Flood,Haiti,Americas,2007,14.0,15014.0,
+-31.99,-59.12,Flood,Uruguay,Americas,2007,,800.0,
+-32.87,151.38,Flood,Australia,Oceania,2007,9.0,5000.0,1300000.0
+22.4,91.95,Flood,Bangladesh,Asia,2007,120.0,80060.0,14000.0
+30.24,-98.66,Flood,United States of America,Americas,2007,8.0,100.0,
+39.89,-4.22,Flood,Spain,Europe,2007,1.0,8000.0,400000.0
+7.38,-75.43,Flood,Colombia,Americas,2007,13.0,3000.0,
+-32.77,-55.8,Flood,Uruguay,Americas,2007,2.0,119200.0,45000.0
+22.02,72.25,Flood,India,Asia,2007,225.0,63000.0,
+14.94,78.16,Flood,India,Asia,2007,127.0,200000.0,
+33.45,-97.3,Flood,United States of America,Americas,2007,10.0,750.0,28000.0
+18.55,-72.29,Flood,Haiti,Americas,2007,4.0,1500.0,
+-34.09,19.58,Flood,South Africa,Africa,2007,,38000.0,
+16.55,-11.32,Flood,Mauritania,Africa,2007,2.0,53620.0,
+35.95,74.34,Flood,Pakistan,Asia,2007,22.0,,
+14.64,-61.02,Storm,Saint Lucia,Americas,2007,1.0,,40000.0
+27.0,119.91,Storm,Philippines,Asia,2007,3.0,380000.0,492.0
+9.64,15.11,Flood,Chad,Africa,2007,3.0,3000.0,
+22.68,70.93,Flood,India,Asia,2007,16.0,,
+45.82,27.24,Flood,Romania,Europe,2007,9.0,4116.0,
+15.47,-13.97,Flood,Senegal,Africa,2007,8.0,5300.0,
+14.62,-83.64,Storm,Honduras,Americas,2007,1.0,19500.0,6579.0
+16.82,102.48,Flood,Thailand,Asia,2007,10.0,17000.0,
+-1.08,116.72,Flood,Indonesia,Asia,2007,4.0,1000.0,
+38.57,125.83,Storm,Philippines,Asia,2007,2.0,30000.0,
+17.07,106.9,Storm,Philippines,Asia,2007,8.0,2000.0,
+17.07,106.9,Storm,Viet Nam,Asia,2007,96.0,685430.0,191000.0
+20.93,-97.85,Storm,Mexico,Americas,2007,5.0,33000.0,
+15.71,79.88,Flood,India,Asia,2007,94.0,20000.0,
+47.09,-122.91,Storm,United States of America,Americas,2007,17.0,1128.0,1000000.0
+20.67,-76.4,Flood,Haiti,Americas,2007,41.0,75947.0,
+20.67,-76.4,Flood,Cuba,Americas,2007,,18000.0,
+8.796,124.833,Flood,Philippines,Asia,2007,11.0,16463.0,2520.0
+13.36,123.38,Flood,Philippines,Asia,2007,20.0,,
+-4.37,15.38,Flood,Democratic Republic of the Congo,Africa,2007,32.0,1600.0,
+7.89,-74.91,Flood,Colombia,Americas,2007,35.0,1162135.0,
+22.61,90.15,Storm,Bangladesh,Asia,2007,4234.0,8978541.0,2300000.0
+8.796,124.83,Storm,Philippines,Asia,2007,20.0,35333.0,1000.0
+-17.77,177.48,Flood,Fiji,Oceania,2007,5.0,,7000.0
+33.4,126.72,Flood,Republic of Korea,Asia,2007,3.0,1000.0,
+48.91,16.35,Flood,Czechia,Europe,2007,,300.0,
+18.93,-71.03,Storm,Dominican Republic,Americas,2007,33.0,61605.0,45000.0
+-19.06,34.36,Flood,Malawi,Africa,2007,,2000.0,
+-20.78,31.24,Flood,Zimbabwe,Africa,2007,24.0,2000.0,
+-15.94,27.77,Flood,Zambia,Africa,2007,10.0,34766.0,
+-28.44,152.87,Flood,Australia,Oceania,2008,1.0,3000.0,90000.0
+-7.71,112.91,Flood,Indonesia,Asia,2008,3.0,40000.0,653.0
+-17.05,17.26,Flood,Angola,Africa,2008,7.0,81400.0,
+-17.05,17.26,Flood,Namibia,Africa,2008,42.0,65000.0,
+-10.11,-73.01,Flood,Peru,Americas,2008,40.0,450012.0,
+11.64,125.22,Flood,Philippines,Asia,2008,63.0,875343.0,30733.0
+-7.13,112.37,Flood,Indonesia,Asia,2008,3.0,12000.0,
+2.83,37.67,Flood,Kenya,Africa,2008,2.0,10000.0,
+39.82,-92.33,Storm,United States of America,Americas,2008,7.0,70.0,1600000.0
+22.94,120.79,Storm,Taiwan (Province of China),Asia,2008,26.0,8.0,16000.0
+-35.86,-71.95,Flood,Chile,Americas,2008,5.0,40000.0,
+25.18,91.54,Flood,India,Asia,2008,1063.0,7900000.0,123000.0
+12.14,107.83,Flood,Viet Nam,Asia,2008,4.0,500.0,
+52.15,-81.96,Flood,Canada,Americas,2008,,2000.0,
+32.56,114.41,Storm,China,Asia,2008,1.0,93006.0,73000.0
+35.88,136.38,Flood,Japan,Asia,2008,5.0,50003.0,
+33.92,71.7,Flood,Pakistan,Asia,2008,36.0,200012.0,103000.0
+0.68,122.52,Flood,Indonesia,Asia,2008,16.0,118000.0,1080.0
+7.585,33.31,Flood,Ethiopia,Africa,2008,5.0,91764.0,
+16.65,81.38,Flood,India,Asia,2008,74.0,,
+22.62,101.55,Flood,China,Asia,2008,20.0,810000.0,42000.0
+12.0,-86.37,Flood,Nicaragua,Americas,2008,13.0,3525.0,
+14.9,107.46,Flood,Viet Nam,Asia,2008,29.0,12004.0,4000.0
+9.24,29.66,Flood,South Sudan,Africa,2008,17.0,3000.0,
+8.57,80.8,Flood,Costa Rica,Americas,2008,1.0,53000.0,22000.0
+8.57,80.8,Flood,Sri Lanka,Asia,2008,15.0,360000.0,
+-17.74,178.05,Flood,Fiji,Oceania,2009,12.0,10556.0,43247.0
+32.65,-6.16,Flood,Morocco,Africa,2009,24.0,2000.0,
+-17.69,46.42,Storm,Madagascar,Africa,2009,12.0,62505.0,
+-2.63,120.26,Flood,Indonesia,Asia,2009,18.0,12000.0,
+-3.27,29.75,Flood,Burundi,Africa,2009,,8000.0,
+-3.19,-45.43,Flood,Brazil,Americas,2009,56.0,1150900.0,550000.0
+38.51,71.29,Flood,Tajikistan,Asia,2009,21.0,15000.0,1000.0
+37.66,-81.28,Flood,United States of America,Americas,2009,,900.0,
+47.16,-67.63,Flood,Canada,Americas,2009,,200.0,
+5.73,-0.1,Flood,Ghana,Africa,2009,16.0,19755.0,
+18.48,-91.05,Flood,Mexico,Americas,2009,,107670.0,
+12.26,5.68,Flood,Nigeria,Africa,2009,,150000.0,
+26.62,105.15,Flood,China,Asia,2009,12.0,118000.0,
+17.57,121.42,Storm,Philippines,Asia,2009,512.0,4478491.0,585379.0
+-22.54,-43.12,Flood,Brazil,Americas,2009,3.0,200.0,
+31.81,-6.78,Flood,Morocco,Africa,2009,5.0,7520.0,
+4.99,102.36,Flood,Malaysia,Asia,2009,,9082.0,
+19.94,-99.0,Flood,Mexico,Americas,2010,41.0,20000.0,16000.0
+28.08,31.09,Flood,Egypt,Africa,2010,12.0,3500.0,
+19.63,-70.56,Flood,Dominican Republic,Americas,2010,1.0,25700.0,
+32.76,-16.97,Flood,Portugal,Europe,2010,43.0,618.0,1350000.0
+44.47,21.14,Flood,Serbia,Europe,2010,,3150.0,
+-22.44,-43.33,Flood,Brazil,Americas,2010,256.0,74938.0,200000.0
+-16.11,17.25,Flood,Angola,Africa,2010,7.0,110886.0,
+34.38,62.25,Flood,Afghanistan,Asia,2010,70.0,40000.0,
+36.07,-87.28,Storm,United States of America,Americas,2010,30.0,8000.0,2350000.0
+43.5,6.6,Flood,France,Europe,2010,26.0,1000.0,1500000.0
+30.18,74.77,Flood,India,Asia,2010,53.0,400000.0,447000.0
+36.03,72.08,Flood,Pakistan,Asia,2010,46.0,,
+15.22,79.48,Flood,India,Asia,2010,27.0,50000.0,
+1.5,36.0,Flood,Kenya,Africa,2010,100.0,70000.0,
+30.51,66.95,Flood,Pakistan,Asia,2010,60.0,4000.0,
+21.51,41.92,Flood,Saudi Arabia,Asia,2010,14.0,,
+-2.14,114.97,Flood,Indonesia,Asia,2010,21.0,15007.0,
+25.965,76.05,Flood,India,Asia,2010,,12500.0,
+22.429,120.7,Storm,Taiwan (Province of China),Asia,2010,2.0,100.0,63100.0
+26.73,82.84,Flood,India,Asia,2010,200.0,3267183.0,1680000.0
+18.19,-77.29,Storm,Jamaica,Americas,2010,15.0,2506.0,150000.0
+12.78,4.5,Flood,Nigeria,Africa,2010,40.0,1500200.0,30000.0
+7.275,80.3,Flood,Sri Lanka,Asia,2010,7.0,164193.0,
+15.1821,108.8,Flood,Viet Nam,Asia,2010,50.0,10000.0,256000.0
+9.77,-66.93,Flood,Venezuela (Bolivarian Republic of),Americas,2010,41.0,94800.0,170000.0
+-29.83,147.38,Flood,Australia,Oceania,2010,,1000.0,
+38.8497,-120.73,Flood,United States of America,Americas,2010,,1000.0,
+8.132,125.57,Flood,Philippines,Asia,2010,110.0,1972446.0,47411.0
+-16.466,-65.6,Flood,Bolivia (Plurinational State of),Americas,2011,52.0,88825.0,20000.0
+7.0,124.865,Flood,Philippines,Asia,2011,11.0,2000.0,
+-23.783,-48.16,Flood,Brazil,Americas,2011,10.0,31000.0,
+22.11,-98.75,Storm,Mexico,Americas,2011,22.0,300000.0,70000.0
+27.0633,108.11,Flood,China,Asia,2011,6.0,1600000.0,54130.0
+-8.65047,-38.11,Flood,Brazil,Americas,2011,15.0,78000.0,
+12.5947,8.64,Flood,Nigeria,Africa,2011,20.0,26965.0,
+28.9081,82.28,Flood,Nepal,Asia,2011,15.0,,
+7.398,126.05,Flood,Philippines,Asia,2011,31.0,121005.0,251.0
+7.8439,-0.45,Flood,Ghana,Africa,2011,6.0,12571.0,
+35.806,-79.37,Flood,United States of America,Americas,2011,2.0,100.0,
+-7.379,110.24,Flood,Indonesia,Asia,2011,10.0,54.0,
+-6.647,37.56,Flood,United Republic of Tanzania,Africa,2011,8.0,9000.0,
+46.5994,-67.5,Flood,Canada,Americas,2012,,1500.0,34000.0
+-52.8256,-69.41,Flood,Chile,Americas,2012,,4300.0,3100.0
+-0.5987,-79.5,Flood,Ecuador,Americas,2012,29.0,71860.0,
+8.22392,125.27,Flood,Philippines,Asia,2012,,25000.0,
+6.873,124.78,Flood,Philippines,Asia,2012,1.0,700.0,
+39.8677,21.01,Flood,Greece,Europe,2012,2.0,200.0,
+22.172,92.1,Flood,Bangladesh,Asia,2012,139.0,5148475.0,
+34.2696,64.19,Flood,Afghanistan,Asia,2012,74.0,27769.0,
+-0.191962,35.19,Flood,Kenya,Africa,2012,73.0,280670.0,100000.0
+24.0587,120.94,Flood,Taiwan (Province of China),Asia,2012,6.0,35000.0,16900.0
+30.503,-89.35,Storm,United States of America,Americas,2012,1.0,60000.0,2000000.0
+38.19,126.24,Flood,Viet Nam,Asia,2012,34.0,17540.0,30000.0
+31.3,76.85,Flood,India,Asia,2012,45.0,200.0,20000.0
+28.04,68.77,Flood,Pakistan,Asia,2012,480.0,5049364.0,2500000.0
+36.9291,68.85,Flood,Afghanistan,Asia,2013,20.0,9500.0,
+-20.3461,-69.09,Flood,Peru,Americas,2013,67.0,180766.0,
+-34.4809,-58.68,Flood,Argentina,Americas,2013,52.0,350000.0,1300000.0
+51.24,-109.64,Flood,Canada,Americas,2013,4.0,100000.0,5700000.0
+49.1358,12.11,Flood,Germany,Europe,2013,4.0,6350.0,12900000.0
+18.3122,98.16,Flood,Myanmar,Asia,2013,7.0,73300.0,
+28.7404,69.11,Flood,Pakistan,Asia,2013,234.0,1497725.0,1500000.0
+50.0043,128.42,Flood,Russian Federation,Europe,2013,,34135.0,1000000.0
+38.8278,-88.64,Flood,United States of America,Americas,2013,5.0,300.0,325000.0
+44.3289,39.25,Flood,Russian Federation,Europe,2013,4.0,1500.0,
+21.68,57.43,Storm,Somalia,Africa,2013,162.0,142380.0,2000.0
+40.3,9.01,Flood,Italy,Europe,2013,18.0,2700.0,780000.0
+27.41,44.81,Flood,Saudi Arabia,Asia,2013,15.0,121.0,
+7.2182,100.39,Flood,Thailand,Asia,2013,23.0,15254.0,
+43.9958,7.1,Flood,France,Europe,2014,4.0,1000.0,
+-6.6324,107.71,Flood,Indonesia,Asia,2014,32.0,20000.0,600000.0
+-21.5153,25.61,Flood,South Africa,Africa,2014,32.0,7185.0,85000.0
+35.834,66.43,Flood,Afghanistan,Asia,2014,431.0,140100.0,
+-6.97805,-67.8,Flood,Brazil,Americas,2015,5.0,1000.0,
+-6.55868,108.4,Flood,Indonesia,Asia,2015,,8000.0,
+5.70693,-74.5,Mass movement (wet),Colombia,Americas,2015,93.0,348.0,
+-5.06017,36.89,Flood,United Republic of Tanzania,Africa,2015,12.0,5000.0,
+3.94741,9.88,Flood,Cameroon,Africa,2015,4.0,30000.0,
+27.0326,114.98,Flood,China,Asia,2015,58.0,82021.0,800000.0
+37.8142,73.26,Flood,Tajikistan,Asia,2015,,5401.0,
+33.6304,54.04,Flood,Iran (Islamic Republic of),Asia,2015,23.0,4030.0,
+-25.5689,-50.75,Flood,Brazil,Americas,2015,3.0,283140.0,
+34.3432,72.27,Flood,Pakistan,Asia,2015,238.0,1572423.0,
+20.8137,106.86,Flood,Viet Nam,Asia,2015,32.0,15000.0,204000.0
+-25.451,-59.27,Flood,Paraguay,Americas,2015,,3700.0,
+41.7575,21.19,Flood,North Macedonia,Europe,2015,7.0,5030.0,87000.0
+-11.5042,-65.84,Flood,Bolivia (Plurinational State of),Americas,2015,,4000.0,
+20.567,104.762,Flood,Viet Nam,Asia,2015,2.0,100.0,
+28.381,-101.772,Storm,Mexico,Americas,2015,14.0,15000.0,823000.0
+11.828,78.855,Flood,India,Asia,2015,325.0,1801000.0,2200000.0
+-26.037,-55.848,Flood,Paraguay,Americas,2015,12.0,136450.0,
+-2.036,39.513,Flood,Kenya,Africa,2015,112.0,240799.0,
+-4.762,35.505,Flood,United Republic of Tanzania,Africa,2016,3.0,58896.0,
+-42.169,172.21,Flood,New Zealand,Oceania,2016,,300.0,25000.0
+-2.057,30.012,Mass movement (wet),Rwanda,Africa,2016,50.0,30030.0,
+6.414,-1.165,Flood,Ghana,Africa,2016,10.0,,
+18.316,95.26,Flood,Myanmar,Asia,2016,14.0,377667.0,
+-12.843,-64.93,Flood,Bolivia (Plurinational State of),Americas,2016,,120.0,
+29.988,-91.8,Flood,United States of America,Americas,2016,13.0,70000.0,10000000.0
+-7.042,108.238,Flood,Indonesia,Asia,2016,53.0,8920.0,22000.0
+42.254,19.446,Flood,Albania,Europe,2016,3.0,4500.0,
+4.7,102.411,Flood,Malaysia,Asia,2016,,25000.0,132000.0
+7.305,100.061,Flood,Thailand,Asia,2017,96.0,1800000.0,1000000.0
+45.575,-74.406,Flood,Canada,Americas,2017,2.0,16113.0,200000.0
+-2.879,37.88,Flood,Kenya,Africa,2017,26.0,25000.0,
+3.815,-59.015,Flood,Guyana,Americas,2017,,3274.0,
+34.349,-111.264,Flood,United States of America,Americas,2017,10.0,,
+27.295,86.427,Flood,Nepal,Asia,2017,11.0,6000.0,
+29.612,113.645,Flood,China,Asia,2017,16.0,61500.0,361000.0
+8.604,80.637,Flood,Sri Lanka,Asia,2017,9.0,13197.0,
+10.566,123.171,Flood,Philippines,Asia,2017,,8000.0,
+44.885,15.215,Flood,Albania,Europe,2017,1.0,21002.0,8900.0
+24.36,55.968,Flood,Oman,Asia,2017,3.0,200.0,
+-4.355,15.116,Flood,Democratic Republic of the Congo,Africa,2018,51.0,15760.0,
+-10.351,33.847,Flood,Malawi,Africa,2018,1.0,300.0,
+-25.312,-57.599,Flood,Paraguay,Americas,2018,,5000.0,
+52.883,84.596,Flood,Russian Federation,Europe,2018,2.0,3672.0,
+42.698,23.9,Flood,Bulgaria,Europe,2018,,600.0,
+10.475,8.238,Flood,Nigeria,Africa,2018,199.0,1922332.0,275000.0
+10.426,-66.55,Flood,Venezuela (Bolivarian Republic of),Americas,2018,2.0,1000.0,
+-21.965,-69.245,Flood,Chile,Americas,2019,6.0,600.0,
+-14.53,34.317,Flood,Malawi,Africa,2019,60.0,975672.0,
+45.624,26.653,Flood,Romania,Europe,2019,4.0,362.0,
+43.571,15.118,Flood,Yemen,Asia,2019,12.0,500.0,
+36.739,140.269,Flood,Japan,Asia,2019,10.0,270.0,
+-33.749,-55.922,Flood,Uruguay,Americas,2019,,270.0,
+-16.223,36.866,Flood,Mozambique,Africa,2019,28.0,58066.0,
+18.398,54.533,Flood,Oman,Asia,2020,3.0,100.0,
+-19.398,-45.901,Flood,Brazil,Americas,2020,61.0,11012.0,300000.0
+20.691,105.183,Storm,Viet Nam,Asia,2020,5.0,4652.0,1500.0
+-14.488,48.767,Storm,Madagascar,Africa,2020,4.0,3200.0,
+51.154,22.49,Flood,Poland,Europe,2020,,5200.0,
+13.259,44.437,Flood,Yemen,Asia,2020,10.0,150030.0,10000.0
+-9.139,14.201,Flood,Angola,Africa,2020,30.0,10600.0,
+49.315,30.061,Flood,Ukraine,Europe,2020,3.0,55000.0,153861.0
+28.484,-107.661,Flood,Mexico,Americas,2019,3.0,500.0,
+7.922,80.835,Flood,Sri Lanka,Asia,2019,3.0,65322.0,
+32.666,131.039,Flood,Japan,Asia,2020,82.0,250114.0,5800000.0
+-18.013,35.282,Flood,Mozambique,Africa,2020,2.0,8700.0,
+-7.011,-76.88,Flood,Peru,Americas,2020,,550.0,
+33.039,54.161,Flood,Iran (Islamic Republic of),Asia,2020,8.0,2501.0,
+6.142,47.085,Flood,Somalia,Africa,2020,26.0,1000020.0,
+24.561,103.055,Flood,Malaysia,Asia,2020,,1210.0,
+-4.512,34.218,Flood,United Republic of Tanzania,Africa,2020,2.0,19323.0,
+46.388,106.222,Flood,Mongolia,Asia,2020,2.0,1230.0,
+-8.02,113.34,Mass movement (wet),Indonesia,Asia,2006,156.0,8313.0,27000.0
+17.02,121.82,Flood,Philippines,Asia,2006,4.0,256641.0,9600.0
+-23.26,116.94,Storm,Australia,Oceania,2006,,1500.0,2354.0
+34.21,45.49,Flood,Iraq,Asia,2006,,41890.0,1300.0
+64.15,11.93,Flood,Norway,Europe,2006,1.0,200.0,
+4.33,102.54,Flood,Thailand,Asia,2006,,2000.0,
+7.17,125.57,Flood,Philippines,Asia,2006,1.0,1000.0,
+-14.18,132.39,Flood,Australia,Oceania,2006,,1100.0,
+37.69,-99.99,Flood,United States of America,Americas,2006,1.0,600.0,259000.0
+-27.44,24.83,Flood,South Africa,Africa,2006,6.0,4160.0,71000.0
+22.15,-99.99,Flood,United States of America,Americas,2006,7.0,,12000.0
+-7.84,111.86,Flood,Indonesia,Asia,2006,22.0,402.0,
+38.69,47.88,Flood,Iran (Islamic Republic of),Asia,2006,14.0,2800.0,16000.0
+10.99,41.63,Flood,Ethiopia,Africa,2006,,10000.0,
+-4.26,143.22,Flood,Papua New Guinea,Oceania,2006,,400.0,
+53.54,-99.99,Flood,Canada,Americas,2006,,1000.0,
+42.27,42.83,Flood,Georgia,Asia,2006,,600.0,
+52.53,-82.09,Flood,Canada,Americas,2006,,2000.0,
+3.42,-56.48,Flood,Suriname,Americas,2006,3.0,25000.0,
+43.16,-70.79,Flood,United States of America,Americas,2006,2.0,2500.0,85000.0
+10.54,76.05,Flood,India,Asia,2006,32.0,10800.0,
+18.73,75.23,Flood,India,Asia,2006,41.0,,
+30.92,112.9,Flood,China,Asia,2006,3.0,350035.0,
+49.5,20.93,Flood,Slovakia,Europe,2006,,100.0,
+58.33,114.58,Flood,Russian Federation,Europe,2006,,1300.0,125000.0
+39.74,41.1,Flood,Türkiye,Asia,2006,12.0,,
+0.55,123.01,Flood,Indonesia,Asia,2006,,5000.0,
+22.35,109.4,Flood,China,Asia,2006,10.0,1400000.0,31000.0
+41.41,-86.91,Flood,United States of America,Americas,2006,2.0,2400.0,7000.0
+35.35,72.62,Mass movement (wet),Pakistan,Asia,2006,29.0,5.0,
+37.56,127.17,Flood,Republic of Korea,Asia,2006,46.0,4630.0,
+24.0,112.11,Storm,Viet Nam,Asia,2006,17.0,2000.0,
+-72.64,-37.26,Flood,Chile,Americas,2006,18.0,95862.0,
+19.91,95.45,Flood,Myanmar,Asia,2006,25.0,10000.0,
+34.61,73.2,Flood,Pakistan,Asia,2006,40.0,2000.0,
+17.75,-15.0,Flood,Mauritania,Africa,2006,7.0,1619.0,
+41.52,-81.09,Flood,United States of America,Americas,2006,1.0,600.0,
+13.21,34.76,Flood,Ethiopia,Africa,2006,2.0,38000.0,
+13.21,34.76,Flood,Sudan,Africa,2006,27.0,6000.0,
+14.42,-1.02,Flood,Burkina Faso,Africa,2006,,15610.0,
+11.06,104.68,Flood,Cambodia,Asia,2006,5.0,33000.0,
+11.06,104.68,Flood,Viet Nam,Asia,2006,60.0,,
+62.45,-99.99,Flood,United States of America,Americas,2006,,150.0,15500.0
+35.62,63.54,Flood,Afghanistan,Asia,2006,166.0,17580.0,
+28.69,81.31,Mass movement (wet),Nepal,Asia,2006,147.0,80000.0,
+60.88,-145.99,Flood,United States of America,Americas,2006,,100.0,
+23.34,102.64,Flood,China,Asia,2006,27.0,20004.0,
+0.78,39.72,Flood,Somalia,Africa,2006,35.0,155500.0,
+4.62,44.6,Flood,Ethiopia,Africa,2006,80.0,361600.0,
+14.13,79.93,Flood,India,Asia,2006,47.0,225000.0,
+37.64,39.65,Flood,Türkiye,Asia,2006,47.0,63015.0,317000.0
+0.78,39.72,Flood,Uganda,Africa,2006,,4000.0,
+19.41,-71.78,Flood,Dominican Republic,Americas,2007,3.0,3830.0,
+1.87,103.22,Flood,Malaysia,Asia,2006,6.0,100000.0,22000.0
+-3.14,30.4,Flood,Burundi,Africa,2006,,4105.0,
+10.33,15.33,Flood,Chad,Africa,2006,52.0,,
+-12.95,24.37,Flood,Angola,Africa,2007,,6000.0,
+6.71,80.95,Flood,Sri Lanka,Asia,2007,18.0,35000.0,
+-11.47,-74.46,Flood,Peru,Americas,2007,17.0,47714.0,
+-6.22,106.83,Flood,Indonesia,Asia,2007,68.0,217087.0,971000.0
+-14.84,49.94,Storm,Madagascar,Africa,2007,80.0,215198.0,240000.0
+-17.77,177.48,Flood,Fiji,Oceania,2007,1.0,900.0,30000.0
+35.64,4.2,Flood,Algeria,Africa,2007,22.0,,13561.0
+8.38,-75.59,Flood,Colombia,Americas,2007,146.0,1504317.0,
+30.28,107.78,Flood,China,Asia,2007,43.0,2300050.0,78000.0
+6.49,80.08,Flood,Sri Lanka,Asia,2007,15.0,121000.0,50.0
+39.35,69.46,Flood,Tajikistan,Asia,2007,1.0,17184.0,
+26.26,94.02,Flood,India,Asia,2007,15.0,200000.0,
+21.03,77.52,Flood,India,Asia,2007,62.0,10000.0,
+25.26,67.9,Storm,Pakistan,Asia,2007,242.0,1650000.0,1620000.0
+53.88,-0.91,Flood,United Kingdom of Great Britain and Northern Ireland,Europe,2007,6.0,30000.0,4000000.0
+35.28,71.14,Flood,Afghanistan,Asia,2007,113.0,4000.0,
+52.07,-2.1,Flood,United Kingdom of Great Britain and Northern Ireland,Europe,2007,7.0,340000.0,4000000.0
+-1.74,121.49,Flood,Indonesia,Asia,2007,88.0,3389.0,
+24.1,100.16,Flood,China,Asia,2007,170.0,386000.0,40000.0
+38.53,126.61,Flood,Democratic People's Republic of Korea,Asia,2007,610.0,1170518.0,300000.0
+0.88,34.28,Flood,Uganda,Africa,2007,29.0,718045.0,71.0
+14.62,-83.64,Flood,Mexico,Americas,2007,,55000.0,
+34.95,5.79,Flood,Algeria,Africa,2007,18.0,,29500.0
+38.57,125.83,Storm,Japan,Asia,2007,4.0,,
+38.57,125.83,Storm,Democratic People's Republic of Korea,Asia,2007,,1649.0,
+46.26,14.03,Storm,Slovenia,Europe,2007,6.0,1050.0,292000.0
+-7.74,114.0,Flood,Indonesia,Asia,2008,14.0,7000.0,
+10.27,-84.95,Flood,Costa Rica,Americas,2007,,12500.0,
+20.91,86.4,Flood,India,Asia,2007,80.0,7200000.0,275000.0
+14.6,-90.49,Flood,Guatemala,Americas,2007,11.0,656.0,
+10.98,-85.44,Flood,Guatemala,Americas,2007,,1440.0,
+10.98,-85.44,Flood,El Salvador,Americas,2007,2.0,500.0,
+15.87,107.78,Flood,Viet Nam,Asia,2007,15.0,22000.0,10000.0
+16.32,107.36,Flood,Viet Nam,Asia,2007,83.0,94042.0,300000.0
+18.53,-70.06,Storm,Bahamas,Americas,2007,1.0,7000.0,
+38.64,-0.27,Flood,Spain,Europe,2007,3.0,3600.0,
+18.53,-70.06,Storm,Cuba,Americas,2007,1.0,192488.0,500000.0
+18.53,-70.06,Storm,Dominican Republic,Americas,2007,129.0,79728.0,77700.0
+-22.72,-43.42,Flood,Brazil,Americas,2007,6.0,2272.0,
+9.72,99.0,Flood,Thailand,Asia,2007,2.0,100000.0,1500.0
+23.76,121.02,Storm,Taiwan (Province of China),Asia,2007,18.0,1067.0,35000.0
+17.57,121.76,Storm,Philippines,Asia,2007,8.0,33884.0,2971.0
+6.96,3.3,Flood,Nigeria,Africa,2007,6.0,5000.0,
+20.45,86.2,Flood,India,Asia,2007,15.0,500000.0,
+7.72,81.4,Flood,Sri Lanka,Asia,2007,,250000.0,
+3.89,102.93,Flood,Malaysia,Asia,2007,29.0,29000.0,363000.0
+18.93,-71.03,Storm,Haiti,Americas,2007,3.0,2352.0,
+-3.61,38.69,Flood,Kenya,Africa,2007,4.0,2000.0,
+-20.78,31.24,Flood,Mozambique,Africa,2007,,,
+39.63,-119.2,Flood,United States of America,Americas,2008,2.0,1500.0,
+-6.23,106.83,Flood,Indonesia,Asia,2008,,1000.0,
+-24.5,-47.88,Flood,Brazil,Americas,2008,4.0,49506.0,
+-22.92,-61.66,Flood,Argentina,Americas,2008,,85000.0,
+-22.46,149.54,Flood,Australia,Oceania,2008,2.0,1000.0,1100000.0
+-3.38,38.17,Flood,United Republic of Tanzania,Africa,2008,1.0,1500.0,
+0.54,101.78,Flood,Indonesia,Asia,2008,,60000.0,
+36.23,-89.15,Flood,United States of America,Americas,2008,18.0,1000.0,2000.0
+7.83,80.82,Flood,Sri Lanka,Asia,2008,8.0,54323.0,
+44.46,-77.47,Flood,Canada,Americas,2008,,400.0,
+4.65,95.77,Flood,Indonesia,Asia,2008,,34514.0,
+7.18,80.77,Flood,Sri Lanka,Asia,2008,25.0,362582.0,
+8.25,-64.88,Flood,Suriname,Americas,2008,2.0,6548.0,
+-1.57,40.12,Flood,Kenya,Africa,2008,16.0,8658.0,
+22.33,113.15,Storm,China,Asia,2008,,42000.0,80000.0
+17.31,103.66,Storm,Thailand,Asia,2008,,,
+35.05,-90.45,Storm,United States of America,Americas,2008,82.0,200000.0,30000000.0
+21.9,104.59,Storm,Viet Nam,Asia,2008,46.0,58511.0,63000.0
+4.0,41.9,Flood,Kenya,Africa,2008,3.0,6000.0,
+1.25,43.5,Flood,Somalia,Africa,2008,,52000.0,
+20.61,-76.17,Flood,Cuba,Americas,2008,,20000.0,
+17.95,147.03,Flood,Philippines,Asia,2008,10.0,239763.0,4088.0
+-21.56,147.03,Flood,Australia,Oceania,2008,4.0,1200.0,275000.0
+-3.33,103.14,Flood,Indonesia,Asia,2008,24.0,15000.0,
+42.84,-123.77,Flood,United States of America,Americas,2008,,30000.0,
+42.24,-2.6,Storm,France,Europe,2009,11.0,,3200000.0
+19.32,-70.14,Flood,Dominican Republic,Americas,2009,2.0,4565.0,44000.0
+-16.59,-44.89,Flood,Brazil,Americas,2009,16.0,1048.0,
+4.36,-76.51,Flood,Colombia,Americas,2009,23.0,31250.0,
+-9.84,14.15,Flood,Angola,Africa,2009,2.0,415.0,
+-8.14,-158.66,Flood,Solomon Islands,Oceania,2009,21.0,7000.0,
+19.28,-70.08,Flood,Dominican Republic,Americas,2009,5.0,10000.0,8403.0
+-20.11,120.56,Storm,Australia,Oceania,2009,,400.0,
+48.25,-97.03,Flood,United States of America,Americas,2009,2.0,5060.0,166000.0
+-29.41,30.82,Flood,South Africa,Africa,2009,3.0,300.0,
+33.07,63.59,Flood,Afghanistan,Asia,2009,39.0,60016.0,20000.0
+-29.05,152.73,Storm,Australia,Oceania,2009,1.0,15000.0,60000.0
+41.0,40.04,Flood,Türkiye,Asia,2009,7.0,111.0,
+44.87,17.48,Flood,Bosnia and Herzegovina,Europe,2009,,1100.0,
+47.4,15.71,Flood,Austria,Europe,2009,,,
+25.26,89.09,Flood,Bangladesh,Asia,2009,6.0,500000.0,
+33.92,72.25,Flood,Pakistan,Asia,2009,36.0,75000.0,
+-25.1,-56.27,Flood,Paraguay,Americas,2009,,12035.0,820.0
+7.07,79.94,Flood,Sri Lanka,Asia,2009,,60000.0,
+42.53,-7.51,Storm,Spain,Europe,2009,,1793.0,
+5.74,100.96,Flood,Malaysia,Asia,2009,,1793.0,
+18.48,-91.05,Flood,Thailand,Asia,2009,15.0,200000.0,
+-31.26,-56.48,Flood,Uruguay,Americas,2009,1.0,4000.0,
+-31.17,151.75,Flood,Australia,Oceania,2009,,200.0,
+-6.8,36.02,Flood,United Republic of Tanzania,Africa,2009,18.0,50000.0,
+-22.98,-44.07,Mass movement (wet),Brazil,Americas,2009,74.0,1000.0,145000.0
+28.0,85.71,Flood,Nepal,Asia,2009,30.0,,
+15.19,108.02,Flood,Viet Nam,Asia,2009,17.0,40000.0,
+39.48,-74.87,Flood,United States of America,Americas,2010,,,
+-12.99,-72.94,Flood,Peru,Americas,2009,158.0,236308.0,
+-17.83,-63.6,Flood,Bolivia (Plurinational State of),Americas,2010,26.0,227860.0,
+9.11,-82.64,Flood,Panama,Americas,2010,,1000.0,
+0.01,34.5,Flood,Kenya,Africa,2010,94.0,141164.0,
+-19.96,34.25,Flood,Mozambique,Africa,2010,5.0,17000.0,
+-26.21,147.95,Flood,Australia,Oceania,2010,,,109000.0
+-18.69,23.23,Flood,Namibia,Africa,2010,8.0,110000.0,
+34.58,-95.1,Flood,United States of America,Americas,2010,20.0,,
+33.53,76.12,Flood,India,Asia,2010,196.0,12725.0,
+22.11,105.95,Storm,Viet Nam,Asia,2010,10.0,12400.0,
+28.35,84.78,Flood,Nepal,Asia,2010,12.0,,
+13.6,14.0,Flood,Niger,Africa,2010,3.0,226611.0,
+40.365,124.97,Flood,Democratic People's Republic of Korea,Asia,2010,,38785.0,
+21.3521,39.94,Flood,Saudi Arabia,Asia,2011,11.0,,300000.0
+12.52,108.9,Flood,Viet Nam,Asia,2010,31.0,39008.0,107700.0
+9.074,-83.31,Flood,Costa Rica,Americas,2010,24.0,3000.0,
+45.13,11.14,Flood,Italy,Europe,2010,,300.0,
+50.85,4.35,Flood,Belgium,Europe,2010,3.0,690.0,238146.0
+50.78,-3.57,Flood,United Kingdom of Great Britain and Northern Ireland,Europe,2010,,400.0,
+40.106,21.46,Flood,Greece,Europe,2010,1.0,150.0,
+9.88,78.47,Flood,India,Asia,2010,203.0,,22000.0
+-24.77,147.63,Flood,Australia,Oceania,2010,35.0,175000.0,7300000.0
+-4.05208,104.67,Flood,Malaysia,Asia,2011,2.0,20000.0,
+-18.939,122.73,Flood,Australia,Oceania,2011,,217.0,
+-18.188,20.64,Flood,Namibia,Africa,2011,108.0,500000.0,12000.0
+8.104,125.091,Flood,Philippines,Asia,2011,16.0,241777.0,280.0
+4.211,97.09,Flood,Indonesia,Asia,2011,21.0,750.0,
+19.3801,101.56,Flood,Lao People's Democratic Republic,Asia,2011,14.0,37000.0,
+22.564,89.05,Flood,Bangladesh,Asia,2011,10.0,1570559.0,
+22.306,88.34,Flood,India,Asia,2011,47.0,700000.0,275000.0
+40.186,-70.06,Storm,United States of America,Americas,2011,46.0,370000.0,7300000.0
+20.651,86.0,Flood,India,Asia,2011,239.0,3443989.0,930000.0
+44.422,9.33,Flood,Italy,Europe,2011,10.0,,545000.0
+37.417,109.53,Flood,China,Asia,2011,22.0,3800000.0,
+0.1257,35.57,Flood,Kenya,Africa,2011,8.0,4000.0,
+8.085,125.93,Flood,Philippines,Asia,2011,,8610.0,178881.0
+-21.71,146.64,Flood,Australia,Oceania,2012,2.0,13000.0,225000.0
+-4.39,137.83,Flood,Indonesia,Asia,2011,18.0,3000.0,
+7.677,-64.77,Flood,Venezuela (Bolivarian Republic of),Americas,2011,9.0,,
+-10.4897,-67.99,Flood,Brazil,Americas,2012,3.0,89000.0,
+-1.40095,29.36,Flood,Rwanda,Africa,2012,5.0,11160.0,
+42.0681,44.52,Flood,Georgia,Asia,2012,5.0,100018.0,3000.0
+30.3632,-58.51,Flood,United States of America,Americas,2012,2.0,300.0,174000.0
+37.0528,70.0,Flood,Afghanistan,Asia,2012,20.0,,
+38.19,126.24,Storm,Democratic People's Republic of Korea,Asia,2012,59.0,44461.0,
+54.04,-2.13,Flood,United Kingdom of Great Britain and Northern Ireland,Europe,2012,3.0,1710.0,81000.0
+43.1605,12.41,Flood,Italy,Europe,2012,6.0,20000.0,15000.0
+4.94,44.89,Flood,Somalia,Africa,2012,6.0,12200.0,
+9.56,29.58,Flood,South Sudan,Africa,2012,15.0,3000.0,
+31.41,113.04,Flood,China,Asia,2012,58.0,140000.0,600000.0
+53.45,-1.19,Flood,United Kingdom of Great Britain and Northern Ireland,Europe,2012,4.0,1700.0,1630000.0
+-6.17945,106.73,Flood,Indonesia,Asia,2013,34.0,248846.0,3000000.0
+42.0408,21.58,Flood,North Macedonia,Europe,2013,1.0,4864.0,
+16.3191,121.14,Flood,Philippines,Asia,2013,31.0,3096422.0,2190000.0
+32.714,76.61,Flood,India,Asia,2013,6054.0,504473.0,1100000.0
+25.8633,118.14,Storm,China,Asia,2013,1.0,3000.0,253000.0
+22.7696,113.69,Storm,China,Asia,2013,88.0,8000000.0,2120000.0
+38.2138,-94.15,Flood,United States of America,Americas,2013,3.0,6000.0,25000.0
+42.0043,19.62,Flood,Albania,Europe,2013,,2800.0,
+0.058024,36.52,Flood,Kenya,Africa,2013,18.0,10780.0,
+30.66,-96.01,Flood,United States of America,Americas,2013,4.0,4800.0,
+45.749,27.553,Flood,Romania,Europe,2013,9.0,6901.0,11000.0
+38.002,-105.143,Flood,United States of America,Americas,2013,9.0,21900.0,1900000.0
+13.082,101.694,Flood,Thailand,Asia,2013,61.0,3500000.0,482000.0
+4.48013,97.29,Flood,Indonesia,Asia,2013,,22500.0,2000.0
+37.5597,-86.79,Flood,United States of America,Americas,2013,5.0,,
+-13.3888,-64.01,Mass movement (wet),Bolivia (Plurinational State of),Americas,2014,74.0,11400.0,200000.0
+-4.14041,29.65,Flood,Burundi,Africa,2014,96.0,12682.0,2000.0
+33.1767,76.41,Flood,India,Asia,2015,44.0,2122.0,76000.0
+-0.795,36.25,Flood,Kenya,Africa,2015,13.0,3000.0,
+-44.1033,-72.92,Flood,Chile,Americas,2015,,116.0,
+10.7121,79.18,Flood,India,Asia,2015,8.0,200.0,
+34.1936,-97.99,Flood,United States of America,Americas,2015,32.0,12000.0,2700000.0
+42.0683,44.54,Flood,Georgia,Asia,2015,40.0,10320.0,23000.0
+7.38005,-0.55,Flood,Ghana,Africa,2015,25.0,5000.0,12000.0
+26.9195,93.87,Mass movement (wet),India,Asia,2015,3.0,9000.0,
+10.1743,-83.83,Flood,Costa Rica,Americas,2015,,9666.0,
+15.5509,120.8,Flood,Philippines,Asia,2015,4.0,3000.0,
+20.175,95.53,Flood,Myanmar,Asia,2015,149.0,1621703.0,119000.0
+6.66576,-58.74,Flood,Guyana,Americas,2015,,199000.0,
+26.8946,93.75,Flood,India,Asia,2015,5.0,18000.0,
+41.287,19.966,Flood,Albania,Europe,2015,1.0,300.0,
+33.054,71.779,Flood,Pakistan,Asia,2016,92.0,77.0,
+48.407,10.22,Flood,Germany,Europe,2016,7.0,,2000000.0
+38.945,-80.555,Storm,United States of America,Americas,2016,25.0,2000.0,1000000.0
+24.753,112.952,Flood,China,Asia,2016,68.0,165000.0,3000000.0
+36.104,72.793,Flood,Pakistan,Asia,2016,46.0,410.0,
+27.976,114.24,Flood,China,Asia,2016,289.0,60000000.0,22000000.0
+-6.894,36.0,Flood,United Republic of Tanzania,Africa,2016,13.0,27933.0,
+-11.594,16.056,Flood,Angola,Africa,2016,30.0,1544.0,
+24.095,90.04,Flood,Bangladesh,Asia,2016,106.0,1900000.0,150000.0
+0.649,123.245,Flood,Indonesia,Asia,2016,2.0,4500.0,
+14.867,100.395,Flood,Thailand,Asia,2016,4.0,204000.0,120000.0
+18.92,-70.125,Flood,Dominican Republic,Americas,2016,15.0,2792000.0,
+45.151,27.562,Flood,Romania,Europe,2016,1.0,300.0,
+47.256,31.348,Flood,Ukraine,Europe,2016,3.0,200.0,
+-33.277,139.898,Flood,Australia,Oceania,2016,1.0,280.0,25000.0
+5.122,102.56,Flood,Malaysia,Asia,2016,,400.0,
+24.302,121.216,Flood,Taiwan (Province of China),Asia,2017,5.0,4074.0,28100.0
+54.367,-7.747,Flood,Ireland,Europe,2017,,200.0,
+51.254,70.047,Flood,Kazakhstan,Asia,2017,,7000.0,
+-45.953,-67.939,Flood,Argentina,Americas,2017,1.0,9000.0,
+-24.206,-48.623,Flood,Brazil,Americas,2018,3.0,1000.0,43000.0
+8.169,9.45,Flood,Nigeria,Africa,2017,,10000.0,
+31.164,34.861,Flood,Israel,Asia,2018,12.0,,
+5.247,101.026,Flood,Malaysia,Asia,2017,7.0,3500.0,
+23.917,-98.308,Flood,Mexico,Americas,2017,2.0,800.0,
+45.457,105.881,Flood,Italy,Europe,2017,1.0,1000.0,125000.0
+48.511,1.606,Flood,France,Europe,2018,,2750.0,372000.0
+-14.405,-64.013,Flood,Bolivia (Plurinational State of),Americas,2018,6.0,12186.0,
+-1.784,30.012,Flood,Rwanda,Africa,2018,24.0,360.0,11000.0
+23.226,92.13,Flood,Bangladesh,Asia,2018,21.0,14000.0,
+50.358,-119.241,Flood,Canada,Americas,2018,,4000.0,
+33.907,3.215,Flood,Algeria,Africa,2018,6.0,200.0,
+-4.015,29.641,Flood,Burundi,Africa,2018,,23000.0,
+45.946,24.989,Flood,Romania,Europe,2018,,2300.0,
+47.381,81.478,Flood,Kazakhstan,Asia,2018,,400.0,
+19.018,-69.704,Flood,Dominican Republic,Americas,2018,,7390.0,
+18.191,95.434,Flood,Myanmar,Asia,2018,16.0,109650.0,
+6.806,80.637,Flood,Sri Lanka,Asia,2018,12.0,75000.0,
+13.487,31.942,Flood,Sudan,Africa,2018,23.0,70060.0,
+26.674,41.295,Flood,Saudi Arabia,Asia,2019,12.0,271.0,
+47.204,111.071,Flood,Mongolia,Asia,2019,12.0,500.0,
+24.555,12.691,Flood,Libya,Africa,2019,4.0,20030.0,7100.0
+18.54,45.254,Flood,Saudi Arabia,Asia,2019,1.0,36.0,
+40.706,41.047,Flood,Türkiye,Asia,2019,10.0,70.0,
+44.089,19.298,Flood,Bosnia and Herzegovina,Europe,2019,,159.0,
+58.911,102.485,Flood,Russian Federation,Europe,2019,31.0,33190.0,460000.0
+32.951,130.545,Flood,Japan,Asia,2019,1.0,302.0,100000.0
+38.05,-1.091,Flood,Spain,Europe,2019,7.0,3500.0,2500000.0
+0.728,39.414,Flood,Kenya,Africa,2019,90.0,233339.0,
+15.52,-15.516,Flood,Senegal,Africa,2019,6.0,8968.0,
